@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1, Fubo
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00242-fubotvinc-fubosports-tablo/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://css2.rtve.es/css/rtveplay.2021/i/compartir_tve_internacional.jpg",TVE Int Europa
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main_dvr.m3u8
 
@@ -522,6 +525,11 @@ https://stitcher.pluto.tv/stitch/hls/channel/5f1ac8f49205650007bc15f1/master.m3u
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/655f626d57fe4a00085c7c3e/featuredImage.jpg",Pluto Series Comedia
 https://stitcher.pluto.tv/stitch/hls/channel/5f9853138d19af0007104a8d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2a76cd9b-7555-11ef-9b52-124a2dd8a144|User-Agent=VLC
 
+#EXTINF:-1, tvg-logo="https://images.produ.com/wp-content/uploads/2024/10/31182826/bigwp-ChannelCanelaTV.jpg",Canela Cinema
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelacinema-lgco/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png",AMC Espanol (US)
+https://amc-amcespanol-1-us.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1,[COLOR yellow][I]- CANALES LATINOS -[/COLOR] [/I] 
 http://
@@ -675,10 +683,6 @@ http://187.190.55.136:5501/udp/225.1.10.113:15113
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/320px-AXN_Logo_2015.png",AXN - Mexico
 http://187.190.55.136:5501/udp/225.1.10.16:15016
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1058_Spectrum_Channel.png",Spectrum Channel
-https://panel.miplay.cl:8082/spectrumchannel/tracks-v1a1/mono.ts.m3u8
-
 
 #EXTINF:-1,[COLOR pink][I]- CANALES +18 -[/COLOR] [/I] 
 http://
