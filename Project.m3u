@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1, Fubo
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00242-fubotvinc-fubosports-tablo/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://css2.rtve.es/css/rtveplay.2021/i/compartir_tve_internacional.jpg",TVE Int Europa
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main_dvr.m3u8
 
@@ -258,10 +261,10 @@ http://187.190.55.136:5501/udp/225.1.1.20:5020
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/mascineclasico/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://8madrid.tv/wp-content/uploads/2021/10/LOGO-8madrid-NUESTRO-CINE_WEB.jpg" tvg-id="8madrid TV",8 Madrid
-https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge5/smil:234_HD.smil/manifest.m3u8
+https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge5/smil:234_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://contenidostv.b-cdn.net/images/bomCine512.png",BOM Cine
-https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:243_HD.smil/manifest.m3u8
+https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:243_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Squirrel_TV_logo.svg/512px-Squirrel_TV_logo.svg.png" tvg-id="Squirrel TV",Squirrel
 https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
