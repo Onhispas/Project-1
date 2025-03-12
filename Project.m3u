@@ -416,9 +416,6 @@ http://185.56.180.254:54543/udp/234.5.2.106:20000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TPA7%20Asturias.png" tvg-id="TPA7 Asturias",7 Asturias
 https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge/smil:219_HD.smil/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TPA7%20Asturias.png" tvg-id="TPA7 Asturias",7 Asturias - Opc 2
-https://cdn-rtpa.watchity.net/wct-3545e416-1a16-44b5-b0db-481136ecacc9/token/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NDE3MTQyMDEsImNvdW50cnlfYWxsb3ciOltdLCJyZWdpb25fYWxsb3ciOltdLCJob3N0X2FsbG93IjpbXSwidXJsX2FsbG93IjpbIi9jb250aW51b3VzLyJdfQ.uWXqGxtTXO5ync5L3dlJ5q_rY2FjWWDOo4AZhGX7Lgc/continuous/7be5c015-1da2-4927-a49b-8d232faa69be/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%207%20Murcia.png" tvg-id="La 7 Murcia",7 Murcia
 https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:35_HD.smil/manifest.m3u8
 
@@ -703,7 +700,7 @@ https://glb.bozztv.com/glb/ssh101/opinionsurs/index.m3u8
 https://fl1004.bozztv.com/ssh101/opinionsurn/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1032_13_Teleseries.png",13 Chile Series
-https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
+https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8|User-Agent=VLC
 
 #EXTINF:-1,[COLOR pink][I]- CANALES +18 -[/COLOR] [/I] 
 http://
