@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, Fubo
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00242-fubotvinc-fubosports-tablo/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://css2.rtve.es/css/rtveplay.2021/i/compartir_tve_internacional.jpg",TVE Int Europa
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main_dvr.m3u8
 
@@ -195,6 +192,8 @@ http://187.190.55.136:5501/udp/225.1.10.145:15145
 http://187.190.55.136:5501/udp/225.1.1.248:5248
 #EXTINF:-1 tvg-id="FOX SPORTS 3",Fox Sports 3 HD
 http://187.190.55.136:5501/udp/225.1.1.21:5021
+#EXTINF:-1,TNT Sports Premium
+http://45.161.24.2:4025/udp/239.2.2.2:3018
 
 #EXTINF:-1,La Liga Inside
 https://is.gd/P9HFAg?LaligaInside.m3u8
@@ -540,7 +539,7 @@ http://187.190.55.136:5501/udp/225.1.1.101:5101
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g5ShxZ7.png" tvg-id="Canal de las Estrellas",Las Estrellas Int.
-https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+http://45.161.24.2:4025/udp/224.2.2.2:3316
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/Logo_Azteca_Uno_2023.png",Azteca Uno
 http://187.190.55.136:5501/udp/225.1.10.102:15102
@@ -569,8 +568,8 @@ https://daiconnect.com/live/hls/tvup/tvfy-ecuavisa/aae2ec58078c3704fc8c1264a9a06
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png",Univision
 http://45.161.24.2:4025/udp/224.32.32.32:1088
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Unicable2018-2.png",Unicable - Udpxy Mexico
-http://187.249.112.44:9981/stream/channelid/1813478322?profile=pass
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/300px-Comedy_Central_2018.svg.png",Comedy Central - Udpxy Colombia
+http://45.161.24.2:4025/udp/239.74.50.1:5005
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/225px-Logo_UniM%C3%A1s.svg.png",Unimas - Udpxy Mexico
 http://187.190.55.136:5501/udp/225.1.10.133:15133
@@ -593,8 +592,8 @@ https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png", RCN Mas
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BitMe_logo.svg/175px-BitMe_logo.svg.png",Bit Me - Mexico
-http://45.161.24.2:4025/udp/224.2.2.2:3312
+#EXTINF:-1, T Channel
+http://45.161.24.2:4025/udp/239.74.48.35:4285
 
 #EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_63f4b3d665b3be00230bd063.png",Kanal D Drama
 http://187.190.55.136:5501/udp/225.1.11.22:11022
