@@ -535,7 +535,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelacinema-l
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png",AMC Espanol (US)
 https://amc-amcespanol-1-us.lg.wurl.tv/playlist.m3u8
 
-#EXTINF:-1,[COLOR grey][I]- CANALES LATINOS ASTRA -[/COLOR] [/I] 
+#EXTINF:-1,[COLOR golden][I]- CANALES LATINOS ASTRA -[/COLOR] [/I]
+http://
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Galavision_Logo_2024.svg/315px-Galavision_Logo_2024.svg.png", Galavision
 http://45.183.220.35:8001/play/a07r/index.m3u8
