@@ -169,6 +169,12 @@ http://
 #EXTINF:-1 tvg-id="FIFA+",FIFA +
 https://stitcher.pluto.tv/stitch/hls/channel/660c29f80cd4630008f1547c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2a76cd9b-7555-11ef-9b52-124a2dd8a144|User-Agent=VLC
 
+#EXTINF:-1, Sky La Liga - Astra
+http://45.164.150.154:8000/play/a003/index.m3u8
+#EXTINF:-1, Sky La Liga - Astra Señal 2
+http://45.164.150.154:8000/play/sky/index.m3u8
+#EXTINF:-1, Direct Sports - Astra
+http://179.51.136.19:8000/play/DSPORTS1/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN",ESPN
 http://45.161.24.2:4025/udp/239.74.49.22:5022
@@ -528,6 +534,26 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelacinema-l
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png",AMC Espanol (US)
 https://amc-amcespanol-1-us.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,[COLOR golden][I]- CANALES LATINOS ASTRA -[/COLOR] [/I] 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/BitMelogo.png", Bitme
+http://45.183.220.35:8001/play/a08z/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Global_logo_2019.png/255px-Global_logo_2019.png", Global
+http://179.51.136.19:8000/play/a16v/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png",Las Estrellas HD
+http://179.51.136.19:8000/play/a1ep/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/288px-Canal_RCN_logo.svg.png",RCN HD
+http://179.51.136.19:8000/play/a1ao/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RCN_Novelas_logo_2019.png/308px-RCN_Novelas_logo_2019.png",RCN Novelas
+http://179.51.136.19:8000/play/a14g/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_TNT_Novelas.png/380px-Logo_TNT_Novelas.png",TNT Novelas HD
+http://179.51.136.19:8000/play/a1f4/index.m3u8
 
 #EXTINF:-1,[COLOR yellow][I]- CANALES LATINOS -[/COLOR] [/I] 
 http://
