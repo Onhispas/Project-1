@@ -537,8 +537,8 @@ https://amc-amcespanol-1-us.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1,[COLOR golden][I]- CANALES LATINOS ASTRA -[/COLOR] [/I] 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/BitMelogo.png", Bitme
-http://45.183.220.35:8001/play/a08z/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Galavision_Logo_2024.svg/315px-Galavision_Logo_2024.svg.png", Galavision
+http://45.183.220.35:8001/play/a07r/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Global_logo_2019.png/255px-Global_logo_2019.png", Global
 http://179.51.136.19:8000/play/a16v/index.m3u8
@@ -554,6 +554,9 @@ http://179.51.136.19:8000/play/a14g/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_TNT_Novelas.png/380px-Logo_TNT_Novelas.png",TNT Novelas HD
 http://179.51.136.19:8000/play/a1f4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/BitMelogo.png", Bitme
+http://45.183.220.35:8001/play/a08z/index.m3u8
 
 #EXTINF:-1,[COLOR yellow][I]- CANALES LATINOS -[/COLOR] [/I] 
 http://
