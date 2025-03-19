@@ -295,7 +295,7 @@ http://185.56.180.254:54543/udp/234.5.2.11:20000
 http://185.56.180.254:54543/udp/239.1.2.9:1234
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/800px-Atreseries_2020_logo.svg.png",A3Series Internacional
-http://179.51.136.19:8000/play/a1bw/index.m3u8
+http://200.115.120.1:8000/play/ca0101/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://contenidostv.b-cdn.net/images/acontracorriente512.png" tvg-id="acontra+",acontra+ Cine
 https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:149_HD.smil/manifest.m3u8
@@ -341,9 +341,6 @@ http://187.190.55.136:5501/udp/225.1.1.82:5082
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/2560px-Tooncast_logo.svg.png",Tooncast
 http://187.190.55.136:5501/udp/225.1.1.41:5041
-
-#EXTINF:-1 tvg-logo="https://tv.wurtlitzer.com/imagenes/categoria/animacion/cartoon_network.png",Cartoon Network City
-https://envivo.cncity.live/hls/cncity.m3u8
 
 #EXTINF:-1 tvg-logo="https://tv.wurtlitzer.com/imagenes/categoria/animacion/cartoon_network.png",Cartoon Network
 http://187.190.55.136:5501/udp/225.1.1.1:5001
