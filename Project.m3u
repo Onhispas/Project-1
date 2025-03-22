@@ -132,6 +132,11 @@ http://2.137.150.82:8001/1:0:1:7831:428:1:c00000:0:0:0:
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAPIO.png" tvg-id="M+ Liga de Campeones HD",Movistar Liga de Campeones
 http://2.137.150.82:8001/1:0:19:78B4:3EC:1:C00000:0:0:0:
 
+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAPIO.png" tvg-id="M+ Liga de Campeones HD",Movistar Liga de Campeones - Latam
+http://200.115.120.1:8000/play/ca124/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP1.png" tvg-id="M+ Liga de Campeones 2 HD",Movistar Liga de Campeones 2
 http://2.137.150.82:8001/1:0:19:749E:41C:1:C00000:0:0:0:
 
@@ -170,7 +175,7 @@ http://
 https://stitcher.pluto.tv/stitch/hls/channel/660c29f80cd4630008f1547c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2a76cd9b-7555-11ef-9b52-124a2dd8a144|User-Agent=VLC
 
 #EXTINF:-1, Sky La Liga - Astra
-http://45.164.150.154:8000/play/a003/index.m3u8
+http://181.209.194.14:8000/play/a05m/index.m3u8
 #EXTINF:-1, Sky La Liga - Astra Señal 2
 http://45.164.150.154:8000/play/sky/index.m3u8
 #EXTINF:-1, Direct Sports - Astra
