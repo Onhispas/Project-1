@@ -33,11 +33,18 @@ https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main_dvr_720.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/281px-Logo_TVE-24h.svg.png" tvg-id="24 Horas",24 H
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/olQJgm7.png",Eurosport 1
-https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:43_HD.smil/manifest.m3u8|User-Agent=VLC
+http://185.189.225.150:85/Eurosport1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/olQJgm7.png",Eurosport 1 - Señal 2
+http://46.6.11.19:8001/1:0:19:7535:426:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/327/493/png-clipart-eurosport-1-television-channel-logo-eurosport-2-others-miscellaneous-television.png",Eurosport 2
-https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:59_HD.smil/manifest.m3u8|User-Agent=VLC
+http://185.189.225.150:85/Eurosport2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/327/493/png-clipart-eurosport-1-television-channel-logo-eurosport-2-others-miscellaneous-television.png",Eurosport 2 - Señal 2
+http://46.6.11.19:8001/1:0:1:76A5:41E:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/GOL_PLAY.svg/2560px-GOL_PLAY.svg.png" tvg-id="GOL PLAY",Udpxy - Gol Play
 http://185.56.180.254:54543/udp/234.5.2.13:20000
@@ -104,6 +111,12 @@ http://46.6.11.19:8001/1:0:1:7730:416:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-logo="https://cms.bbcstudios.com.au//sites/default/files/2024-08/BBC_DRAMA_Stacked_RGB_Full_Colour.png" tvg-id="BBC Drama",BBC Drama
 http://46.6.11.19:8001/1:0:1:77C1:40A:1:C00000:0:0:0:
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png" tvg-id="Movistar Plus+ HD",Movistar+
+http://46.6.11.19:8001/1:0:1:7588:412:1:C00000:0:0:0:
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B%202.png" tvg-id="Movistar Plus+ 2 HD",Movistar+ 2
+http://46.6.11.19:8001/1:0:1:7579:412:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/VAMOSD.png" tvg-id="M+ Vamos HD",Vamos
 http://46.6.11.19:8001/1:0:19:750A:420:1:C00000:0:0:0:
@@ -213,10 +226,13 @@ https://is.gd/P9HFAg?LaligaInside.m3u8
 http://
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Syfy_HD_Logo_2017.png",Syfy
-https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:81_HD.smil/manifest.m3u8|User-Agent=VLC
+http://185.189.225.150:85/syfy/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png",Star Channel
-https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:248_HD.smil/manifest.m3u8|User-Agent=VLC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Syfy_HD_Logo_2017.png",Syfy - MV+
+http://46.6.11.19:8001/1:0:1:7796:424:1:C00000:0:0:0:
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png",Star Channel - MV+
+http://46.6.11.19:8001/1:0:1:746F:3F0:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-logo="https://www.tvguia.es/sites/default/files/logo/canal-hollywood.png",Canal Hollywood
 http://185.189.225.150:85/Hollywood/index.m3u8
@@ -239,17 +255,26 @@ http://185.56.180.254:54543/udp/224.168.11.56:20000
 #EXTINF:-1 tvg-logo="https://www.tvguia.es/sites/default/files/logo/tcm.png",TCM
 http://185.189.225.150:85/TCM/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.tvguia.es/sites/default/files/logo/tcm.png",TCM - Señal 2
+http://46.6.11.19:8001/1:0:1:76C7:40E:1:C00000:0:0:0:
+
 #EXTINF:-1 tvg-logo="https://www.tvguia.es/sites/default/files/logo/paramount-network.png" tvg-id="Paramount Network",Paramount
 http://185.189.225.150:85/Paramount/index.m3u8 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Comedy_Central_2011_Logo.png",Comedy Central
-https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge/smil:254_HD.smil/manifest.m3u8|User-Agent=VLC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Comedy%20Central.png",Comedy Central
+http://185.189.225.150:85/comedycentral/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Comedy_Central_2011_Logo.png",Comedy Central -  MV+
+http://46.6.11.19:8001/1:0:1:76C8:40E:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-logo="https://images.amcselekt.es/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/89239d953fe6b904607d03a8fe678450_c-dark.svg.png",Dark
 https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:92_HD.smil/manifest.m3u8|User-Agent=VLC
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Calle_13_Universal.png/501px-Calle_13_Universal.png",Calle 13
-https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:96_HD.smil/manifest.m3u8|User-Agent=VLC
+http://185.189.225.150:85/calle13/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Calle_13_Universal.png/501px-Calle_13_Universal.png",Calle 13 - MV+
+http://46.6.11.19:8001/1:0:1:7790:424:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-logo="https://images.amcselekt.es/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/4eaf21f98470777419af496c28ddc790_LOGO%20SOMOS%20PARA%20CANAL%20CMS.png",Somos
 https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:104_HD.smil/manifest.m3u8|User-Agent=VLC
@@ -327,14 +352,16 @@ http://185.56.180.254:54543/udp/234.5.2.103:20000
 https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:102_HD.smil/manifest.m3u8|User-Agent=VLC
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/BOING.png",Boing
-https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/manifest.m3u8|User-Agent=VLC
+http://185.189.225.150:85/boing/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/BOING.png",Boing - MV+
+http://46.6.11.19:8001/1:0:1:7888:414:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png" tvg-id="Clan",Web Rtve - Clan
 https://rtvelivestream.akamaized.net/rtvesec/clan/clan_main_dvr_720.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/250px-Nickelodeon_2023_logo_%28outline%29.svg.png",Nickelodeon
-https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge/smil:260_HD.smil/manifest.m3u8|User-Agent=VLC|User-Agent=VLC
-
+http://185.189.225.150:85/nickelodeon/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DWSP.png",Dreamworks
 http://46.6.11.19:8001/1:0:1:77C7:40A:1:C00000:0:0:0:
@@ -364,12 +391,12 @@ https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:26_HD.smil/manifest
 http://185.56.180.254:54543/udp/234.5.2.169:20000
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-0.png",Discovery
-https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:54_HD.smil/manifest.m3u8|User-Agent=VLC|User-Agent=VLC
+http://185.189.225.150:85/Discovery/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/800px-Natgeologo.svg.png",National Geographic
-https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge/smil:257_HD.smil/manifest.m3u8|User-Agent=VLC|User-Agent=VLC
+http://185.189.225.150:85/NationalGeographic/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/100px-National_Geographic_Wild_logo.svg.png" tvg-id="Nat Geo Wild HD",National Geographic Wild
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/100px-National_Geographic_Wild_logo.svg.png" tvg-id="Nat Geo Wild HD",National Geographic Wild - OFF
 https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge/smil:258_HD.smil/manifest.m3u8|User-Agent=VLC|User-Agent=VLC
 
 #EXTINF:-1 tvg-logo="https://www.tvguia.es/sites/default/files/logo/odisea.png",Odisea
@@ -381,18 +408,11 @@ http://46.6.11.19:8001/1:0:1:7731:416:1:C00000:0:0:0:
 #EXTINF:-1 tvg-logo="https://images.amcselekt.es/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/4156152379c245d81bb9aa287ee582f3_AMC-Break--1200x630.jpg" tvg-id="AMC Break",AMC break
 http://185.56.180.254:54543/udp/224.168.11.20:2020
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/HIT_TV_logo.svg/799px-HIT_TV_logo.svg.png",Hit Tv
-https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge5/smil:233_HD.smil/manifest.m3u8|User-Agent=VLC|User-Agent=VLC
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/NickMusic_Logo.png",Nick Music
 http://187.190.55.136:5501/udp/225.1.1.11:5011
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Telehit_logo_2014.png",Tele Hit
 http://187.190.55.136:5501/udp/225.1.1.46:5046
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/MTV-Logo.svg/673px-MTV-Logo.svg.png" tvg-id="MTV España",MTV
-https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge/smil:256_HD.smil/manifest.m3u8|User-Agent=VLC|User-Agent=VLC
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Telemadrid.svg/1200px-Telemadrid.svg.png" tvg-id="TELEMADRID",Telemadrid - Udpxy
 http://185.56.180.254:54543/udp/234.5.2.111:20000
@@ -418,14 +438,11 @@ http://185.56.180.254:54543/udp/234.5.2.106:20000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TPA7%20Asturias.png" tvg-id="TPA7 Asturias",7 Asturias
 https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge/smil:219_HD.smil/manifest.m3u8|User-Agent=VLC|User-Agent=VLC
 
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%207%20Murcia.png" tvg-id="La 7 Murcia",7 Murcia
 https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:35_HD.smil/manifest.m3u8|User-Agent=VLC|User-Agent=VLC
 
-
 #EXTINF:-1 tvg-logo="https://camaradesevilla.com/wp-content/uploads/2024/07/LOGO-SIETE-ANDALUCIA.png" tvg-id="7TV Andalucía",7 Andalucia
 https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:241_HD.smil/manifest.m3u8|User-Agent=VLC|User-Agent=VLC
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Logo_de_Canal_Sur_1.png" tvg-id="Canal Sur HD",Canal Sur 1
 http://185.56.180.254:54543/udp/234.5.2.108:20000
@@ -736,14 +753,11 @@ https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8|User-Agen
 http://
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/P/playboy-tv-logo-8447C82DEB-seeklogo.com.png",Playboy
-https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:221_HD.smil/manifest.m3u8|User-Agent=VLC|User-Agent=VLC
-
+https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:221_HD.smil/manifest.m3u8|User-Agent=VLC
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/100px-Canal_Venus_logo.svg.png",Venus
-https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:222_HD.smil/manifest.m3u8|User-Agent=VLC|User-Agent=VLC
-
+https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:222_HD.smil/manifest.m3u8|User-Agent=VLC
 
 #EXTINF:-1 tvg-logo="https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9798895150269/hustler-magazine-fiftieth-anniversary-volume-9798895150269_lg.jpg",Hustler 50
-https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge5/smil:181_HD.smil/manifest.m3u8|User-Agent=VLC|User-Agent=VLC
-
+https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge5/smil:181_HD.smil/manifest.m3u8|User-Agent=VLC
 
