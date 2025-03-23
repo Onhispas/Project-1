@@ -34,25 +34,25 @@ https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main_dvr_720.m3u8
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/olQJgm7.png",Eurosport 1
-https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:43_HD.smil/manifest.m3u8
+https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:43_HD.smil/manifest.m3u8|User-Agent=VLC
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/327/493/png-clipart-eurosport-1-television-channel-logo-eurosport-2-others-miscellaneous-television.png",Eurosport 2
-https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:59_HD.smil/manifest.m3u8
+https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:59_HD.smil/manifest.m3u8|User-Agent=VLC
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/GOL_PLAY.svg/2560px-GOL_PLAY.svg.png" tvg-id="GOL PLAY",Udpxy - Gol Play
 http://185.56.180.254:54543/udp/234.5.2.13:20000
 
 #EXTINF:-1 tvg-logo="https://contenidostv.b-cdn.net/images/extremeSports-512.png",Extreme Sports
-https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge/smil:153_HD.smil/manifest.m3u8
+https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge/smil:153_HD.smil/manifest.m3u8|User-Agent=VLC
 
 #EXTINF:-1 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/FightBoxHD-logo.png",Fight Box
-https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:225_HD.smil/manifest.m3u8
+https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:225_HD.smil/manifest.m3u8|User-Agent=VLC
 
 #EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180728/hyw/kisspng-logo-brand-font-tv-channel-5b5c64c37fa295.3472601515327817635228.jpg" tvg-id="Fight Time",Fight Time
-https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge/smil:67_HD.smil/manifest.m3u8
+https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge/smil:67_HD.smil/manifest.m3u8|User-Agent=VLC
 
 #EXTINF:-1 tvg-logo="https://cf-img-cdn.nodplatform.com/static/images/r2f6c69b.jpg",Fuel Tv
-https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:123_HD.smil/manifest.m3u8
+https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:123_HD.smil/manifest.m3u8|User-Agent=VLC
 
 #EXTINF:-1,[COLOR green][I]- MOVISTAR -[/COLOR] [/I] 
 http://
@@ -213,10 +213,10 @@ https://is.gd/P9HFAg?LaligaInside.m3u8
 http://
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Syfy_HD_Logo_2017.png",Syfy
-https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:81_HD.smil/manifest.m3u8
+https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:81_HD.smil/manifest.m3u8|User-Agent=VLC
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png",Star Channel
-https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:248_HD.smil/manifest.m3u8
+https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:248_HD.smil/manifest.m3u8|User-Agent=VLC
 
 #EXTINF:-1 tvg-logo="https://www.tvguia.es/sites/default/files/logo/canal-hollywood.png",Canal Hollywood
 http://185.189.225.150:85/Hollywood/index.m3u8
@@ -243,16 +243,16 @@ http://185.189.225.150:85/TCM/index.m3u8
 http://185.189.225.150:85/Paramount/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Comedy_Central_2011_Logo.png",Comedy Central
-https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge/smil:254_HD.smil/manifest.m3u8
+https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge/smil:254_HD.smil/manifest.m3u8|User-Agent=VLC
 
 #EXTINF:-1 tvg-logo="https://images.amcselekt.es/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/89239d953fe6b904607d03a8fe678450_c-dark.svg.png",Dark
-https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:92_HD.smil/manifest.m3u8
+https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:92_HD.smil/manifest.m3u8|User-Agent=VLC
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Calle_13_Universal.png/501px-Calle_13_Universal.png",Calle 13
-https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:96_HD.smil/manifest.m3u8
+https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:96_HD.smil/manifest.m3u8|User-Agent=VLC
 
 #EXTINF:-1 tvg-logo="https://images.amcselekt.es/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/4eaf21f98470777419af496c28ddc790_LOGO%20SOMOS%20PARA%20CANAL%20CMS.png",Somos
-https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:104_HD.smil/manifest.m3u8
+https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:104_HD.smil/manifest.m3u8|User-Agent=VLC
 
 #EXTINF:-1 tvg-logo="https://images.amcselekt.es/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/4eaf21f98470777419af496c28ddc790_LOGO%20SOMOS%20PARA%20CANAL%20CMS.png" tvg-id="Somos",Somos - Udpxy
 http://185.56.180.254:54543/udp/224.168.11.102:20000
@@ -261,13 +261,13 @@ http://185.56.180.254:54543/udp/224.168.11.102:20000
 http://187.190.55.136:5501/udp/225.1.1.20:5020
 
 #EXTINF:-1 tvg-logo="https://8madrid.tv/wp-content/uploads/2021/10/LOGO-8madrid-NUESTRO-CINE_WEB.jpg" tvg-id="8madrid TV",8 Madrid
-https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge5/smil:234_HD.smil/manifest.m3u8
+https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge5/smil:234_HD.smil/manifest.m3u8|User-Agent=VLC
 
 #EXTINF:-1 tvg-logo="https://contenidostv.b-cdn.net/images/bomCine512.png",BOM Cine
-https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:243_HD.smil/manifest.m3u8
+https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:243_HD.smil/manifest.m3u8|User-Agent=VLC
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Squirrel_TV_logo.svg/512px-Squirrel_TV_logo.svg.png" tvg-id="Squirrel TV",Squirrel
-https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
+https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8|User-Agent=VLC
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/BEMAD.png",Be Mad
 http://185.56.180.254:54543/udp/239.1.2.10:1234
@@ -303,16 +303,16 @@ http://185.56.180.254:54543/udp/239.1.2.9:1234
 http://200.115.120.1:8000/play/ca0101/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://contenidostv.b-cdn.net/images/acontracorriente512.png" tvg-id="acontra+",acontra+ Cine
-https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:149_HD.smil/manifest.m3u8
+https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:149_HD.smil/manifest.m3u8|User-Agent=VLC
 
 #EXTINF:-1 tvg-logo="https://contenidostv.b-cdn.net/images/cineFeelGood-512.png" tvg-id="Cine Feel Good",Cine Feel Good
-https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge/smil:151_HD.smil/manifest.m3u8
+https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge/smil:151_HD.smil/manifest.m3u8|User-Agent=VLC
 
 #EXTINF:-1 tvg-logo="https://contenidostv.b-cdn.net/images/cinesVerdi-512.png" tvg-id="Cines Verdi TV",Cine Verdi
-https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge/smil:152_HD.smil/manifest.m3u8
+https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge/smil:152_HD.smil/manifest.m3u8|User-Agent=VLC
 
 #EXTINF:-1 tvg-logo="https://contenidostv.b-cdn.net/images/clover512.jpg",Clover
-https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:77_HD.smil/manifest.m3u8
+https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:77_HD.smil/manifest.m3u8|User-Agent=VLC
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1320_TV_Prime_Peliculas.png",Tv Prime Cine
 https://vdo.paneldalestream.com:3786/live/tvprimelive.m3u8
@@ -324,16 +324,17 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/mascineclasico/chunks.m3u8
 http://185.56.180.254:54543/udp/234.5.2.103:20000
 
 #EXTINF:-1 tvg-logo="https://images.amcselekt.es/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/2be0ee246d3833819d6686e1b76d422e_LOGO_Enfamila-color.png" tvg-id="Enfamilia",En Familia
-https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:102_HD.smil/manifest.m3u8
+https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:102_HD.smil/manifest.m3u8|User-Agent=VLC
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/BOING.png",Boing
-https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/manifest.m3u8
+https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/manifest.m3u8|User-Agent=VLC
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png" tvg-id="Clan",Web Rtve - Clan
 https://rtvelivestream.akamaized.net/rtvesec/clan/clan_main_dvr_720.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/250px-Nickelodeon_2023_logo_%28outline%29.svg.png",Nickelodeon
-https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge/smil:260_HD.smil/manifest.m3u8
+https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge/smil:260_HD.smil/manifest.m3u8|User-Agent=VLC|User-Agent=VLC
+
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DWSP.png",Dreamworks
 http://46.6.11.19:8001/1:0:1:77C7:40A:1:C00000:0:0:0:
@@ -357,19 +358,19 @@ http://185.189.225.150:85/mega/index.m3u8
 http://185.56.180.254:54543/udp/234.5.2.31:20000
 
 #EXTINF:-1 tvg-logo="https://contenidostv.b-cdn.net/images/logos512/ten.png",Ten
-https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:26_HD.smil/manifest.m3u8
+https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:26_HD.smil/manifest.m3u8|User-Agent=VLC|User-Agent=VLC
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DMax_Espa%C3%B1a.svg/1280px-DMax_Espa%C3%B1a.svg.png" tvg-id="DMAX",Udpxy - DMax
 http://185.56.180.254:54543/udp/234.5.2.169:20000
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-0.png",Discovery
-https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:54_HD.smil/manifest.m3u8
+https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:54_HD.smil/manifest.m3u8|User-Agent=VLC|User-Agent=VLC
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/800px-Natgeologo.svg.png",National Geographic
-https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge/smil:257_HD.smil/manifest.m3u8
+https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge/smil:257_HD.smil/manifest.m3u8|User-Agent=VLC|User-Agent=VLC
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/100px-National_Geographic_Wild_logo.svg.png" tvg-id="Nat Geo Wild HD",National Geographic Wild
-https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge/smil:258_HD.smil/manifest.m3u8
+https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge/smil:258_HD.smil/manifest.m3u8|User-Agent=VLC|User-Agent=VLC
 
 #EXTINF:-1 tvg-logo="https://www.tvguia.es/sites/default/files/logo/odisea.png",Odisea
 http://185.189.225.150:85/odisea/index.m3u8
@@ -381,7 +382,7 @@ http://46.6.11.19:8001/1:0:1:7731:416:1:C00000:0:0:0:
 http://185.56.180.254:54543/udp/224.168.11.20:2020
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/HIT_TV_logo.svg/799px-HIT_TV_logo.svg.png",Hit Tv
-https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge5/smil:233_HD.smil/manifest.m3u8
+https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge5/smil:233_HD.smil/manifest.m3u8|User-Agent=VLC|User-Agent=VLC
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/NickMusic_Logo.png",Nick Music
 http://187.190.55.136:5501/udp/225.1.1.11:5011
@@ -390,7 +391,8 @@ http://187.190.55.136:5501/udp/225.1.1.11:5011
 http://187.190.55.136:5501/udp/225.1.1.46:5046
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/MTV-Logo.svg/673px-MTV-Logo.svg.png" tvg-id="MTV España",MTV
-https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge/smil:256_HD.smil/manifest.m3u8
+https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge/smil:256_HD.smil/manifest.m3u8|User-Agent=VLC|User-Agent=VLC
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Telemadrid.svg/1200px-Telemadrid.svg.png" tvg-id="TELEMADRID",Telemadrid - Udpxy
 http://185.56.180.254:54543/udp/234.5.2.111:20000
@@ -414,13 +416,16 @@ http://185.56.180.254:54543/udp/234.5.2.118:20000
 http://185.56.180.254:54543/udp/234.5.2.106:20000
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TPA7%20Asturias.png" tvg-id="TPA7 Asturias",7 Asturias
-https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge/smil:219_HD.smil/manifest.m3u8
+https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge/smil:219_HD.smil/manifest.m3u8|User-Agent=VLC|User-Agent=VLC
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%207%20Murcia.png" tvg-id="La 7 Murcia",7 Murcia
-https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:35_HD.smil/manifest.m3u8
+https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:35_HD.smil/manifest.m3u8|User-Agent=VLC|User-Agent=VLC
+
 
 #EXTINF:-1 tvg-logo="https://camaradesevilla.com/wp-content/uploads/2024/07/LOGO-SIETE-ANDALUCIA.png" tvg-id="7TV Andalucía",7 Andalucia
-https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:241_HD.smil/manifest.m3u8
+https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:241_HD.smil/manifest.m3u8|User-Agent=VLC|User-Agent=VLC
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Logo_de_Canal_Sur_1.png" tvg-id="Canal Sur HD",Canal Sur 1
 http://185.56.180.254:54543/udp/234.5.2.108:20000
@@ -429,7 +434,8 @@ http://185.56.180.254:54543/udp/234.5.2.108:20000
 https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ETB4.png" tvg-id="ETB4",ETB IIII
-https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge/smil:273_HD.smil/manifest.m3u8
+https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge/smil:273_HD.smil/manifest.m3u8|User-Agent=VLC|User-Agent=VLC
+
 
 #EXTINF:-1 tvg-logo="https://distritotv.es/wp-content/uploads/2018/04/ElDistrito_Logo_PNG.jpg",Distrito Tv
 https://nlb1-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8
@@ -730,11 +736,14 @@ https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8|User-Agen
 http://
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/P/playboy-tv-logo-8447C82DEB-seeklogo.com.png",Playboy
-https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:221_HD.smil/manifest.m3u8
+https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:221_HD.smil/manifest.m3u8|User-Agent=VLC|User-Agent=VLC
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/100px-Canal_Venus_logo.svg.png",Venus
-https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:222_HD.smil/manifest.m3u8
+https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:222_HD.smil/manifest.m3u8|User-Agent=VLC|User-Agent=VLC
+
 
 #EXTINF:-1 tvg-logo="https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9798895150269/hustler-magazine-fiftieth-anniversary-volume-9798895150269_lg.jpg",Hustler 50
-https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge5/smil:181_HD.smil/manifest.m3u8
+https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge5/smil:181_HD.smil/manifest.m3u8|User-Agent=VLC|User-Agent=VLC
+
 
