@@ -405,6 +405,9 @@ http://185.56.180.254:54543/udp/234.5.2.111:20000
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/OTRA.png" tvg-id="La Otra",La Otra - Udpxy
 http://185.56.180.254:54543/udp/234.5.2.112:20000
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/8madrid%20TV.png" tvg-id="8madrid TV",8 Madrid
+http://185.189.225.150:85/8madrid/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/Canal-4-Baleares-en-DIRECTO-Online-en-vivo.png",Canal 4 Baleares
 https://limited35.todostreaming.es/live/mitjans-livestream2.m3u8
 
