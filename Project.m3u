@@ -33,7 +33,6 @@ https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main_dvr_720.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/281px-Logo_TVE-24h.svg.png" tvg-id="24 Horas",24 H
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/olQJgm7.png",Eurosport 1
 http://185.189.225.150:85/Eurosport1/index.m3u8
 
@@ -216,8 +215,8 @@ http://
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Syfy_HD_Logo_2017.png",Syfy
 http://185.189.225.150:85/syfy/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Syfy_HD_Logo_2017.png",Syfy - MV+
-http://79.116.26.38:8001/1:0:1:7796:424:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Syfy_HD_Logo_2017.png",Syfy - Udpxy
+http://185.56.180.254:54543/udp/239.1.1.16:1234
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png",Star Channel - MV+
 http://79.116.26.38:8001/1:0:1:746F:3F0:1:C00000:0:0:0:
@@ -267,14 +266,14 @@ http://185.189.225.150:85/Dark/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Calle_13_Universal.png/501px-Calle_13_Universal.png",Calle 13
 http://185.189.225.150:85/calle13/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Calle_13_Universal.png/501px-Calle_13_Universal.png",Calle 13 - MV+
-http://79.116.26.38:8001/1:0:1:7790:424:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Calle_13_Universal.png/501px-Calle_13_Universal.png",Calle 13 - Udpxy
+http://185.56.180.254:54543/udp/239.1.1.13:1234
 
 #EXTINF:-1 tvg-logo="https://images.amcselekt.es/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/4eaf21f98470777419af496c28ddc790_LOGO%20SOMOS%20PARA%20CANAL%20CMS.png",Somos
 http://185.189.225.150:85/somos/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.amcselekt.es/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/4eaf21f98470777419af496c28ddc790_LOGO%20SOMOS%20PARA%20CANAL%20CMS.png" tvg-id="Somos",Somos - Udpxy
-http://185.56.180.254:54543/udp/224.168.11.102:20000
+http://185.56.180.254:54543/udp/239.1.1.85:1234
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/1200px-Atrescine_logo.svg.png" tvg-id="Atrescine",A3Cine
 http://187.190.55.136:5501/udp/225.1.1.20:5020
@@ -292,7 +291,7 @@ http://185.56.180.254:54543/udp/239.1.2.10:1234
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nova.svg/1200px-Nova.svg.png",Nova
-http://37.132.94.45:8001/1:0:19:7509:420:1:C00000:0:0:0:
+http://185.56.180.254:54543/udp/239.1.1.148:1234
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DIVINI.png",Divinity
 http://185.56.180.254:54543/udp/234.5.2.34:20000
@@ -323,12 +322,6 @@ https://daiconnect.com/live/hls/tvup/tvfy-feelgood/.m3u8
 
 #EXTINF:-1 tvg-logo="https://contenidostv.b-cdn.net/images/cinesVerdi-512.png" tvg-id="Cines Verdi TV",Cine Verdi
 https://daiconnect.com/live/hls/tvup/futcineverdi/b8ee129e0585ae0c1eb5b4187f8e4fa7/index.m3u8?requestuid=48992f99-e599-4027-9f38-7ffe53596d4c
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1320_TV_Prime_Peliculas.png",Tv Prime Cine
-https://vdo.paneldalestream.com:3786/live/tvprimelive.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1653__Cine_Classic.png",+ Cine Clasico
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/mascineclasico/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/CGTN_Espanol.png/200px-CGTN_Espanol.png" tvg-id="CGTN Español",CGTN Español
 http://185.56.180.254:54543/udp/234.5.2.103:20000
