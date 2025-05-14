@@ -100,7 +100,7 @@ http://79.117.1.245:8001/1:0:1:7730:416:1:C00000:0:0:0:
 http://79.117.1.245:8001/1:0:1:77C1:40A:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png" tvg-id="Movistar Plus+ HD",Movistar+
-http://79.117.1.245:8001/1:0:1:7588:412:1:C00000:0:0:0:
+http://79.117.1.245:8001/1:0:19:749a:41c:1:c00000:0:0:0:
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B%202.png" tvg-id="Movistar Plus+ 2 HD",Movistar+ 2
 http://79.117.1.245:8001/1:0:1:7579:412:1:C00000:0:0:0:
@@ -131,11 +131,6 @@ http://79.117.1.245:8001/1:0:1:7831:428:1:c00000:0:0:0:
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAPIO.png" tvg-id="M+ Liga de Campeones HD",Movistar Liga de Campeones
 http://79.117.1.245:8001/1:0:19:78B4:3EC:1:C00000:0:0:0:
-
-
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAPIO.png" tvg-id="M+ Liga de Campeones HD",Movistar Liga de Campeones - Latam
-http://200.115.120.1:8000/play/ca124/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP1.png" tvg-id="M+ Liga de Campeones 2 HD",Movistar Liga de Campeones 2
 http://79.117.1.245:8001/1:0:19:749E:41C:1:C00000:0:0:0:
@@ -544,7 +539,7 @@ http://45.183.220.35:8001/play/a07r/index.m3u8
 http://179.51.136.19:8000/play/a16v/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png",Las Estrellas HD
-http://179.51.136.19:8000/play/a1ep/index.m3u8
+http://179.51.136.19:8000/play/a1mj/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/288px-Canal_RCN_logo.svg.png",RCN HD
 http://179.51.136.19:8000/play/a1ao/index.m3u8
