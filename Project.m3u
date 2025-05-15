@@ -177,7 +177,7 @@ http://45.164.150.154:8000/play/sky/index.m3u8
 http://179.51.136.19:8000/play/DSPORTS1/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN",ESPN
-http://45.161.24.2:4025/udp/239.74.49.22:5022
+http://179.51.136.19:8000/play/a0ws/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 2",ESPN 2
 http://187.190.55.136:5501/udp/225.1.1.113:5113
 #EXTINF:-1 tvg-id="ESPN 3",ESPN 3
@@ -186,8 +186,8 @@ http://187.190.55.136:5501/udp/225.1.10.22:15022
 http://187.190.55.136:5501/udp/225.1.1.143:5143
 #EXTINF:-1,ESPN 5
 http://45.161.24.2:4025/udp/239.74.49.10:5010
-#EXTINF:-1 tvg-id="ESPN Deportes",ESPN Deportes
-http://190.92.10.66:4000/play/a003
+#EXTINF:-1,ESPN Premium
+http://179.51.136.19:8000/play/a1ar/index.m3u8
 #EXTINF:-1 tvg-id="FOX SPORTS",Fox Sports
 http://187.190.55.136:5501/udp/225.1.1.153:5153
 #EXTINF:-1 tvg-id="FOX SPORTS",Fox Sports Señal 2
