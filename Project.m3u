@@ -10,22 +10,22 @@ https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr_720.m3u8
 https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr_720.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Antena_3_new.svg/1200px-Antena_3_new.svg.png",Antena 3
-http://185.56.180.254:54543/udp/234.5.2.23:20000
+http://89.140.122.21:5000/udp/234.5.2.23:20000
 
 #EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_circular_500_-1_d4a5.png" tvg-id="Cuatro HD",Udpxy - Cuatro
-http://185.56.180.254:54543/udp/234.5.2.24:20000
+http://89.140.122.21:5000/udp/234.5.2.24:20000
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/T5.png",Telecinco
-http://185.56.180.254:54543/udp/234.5.2.25:20000
+http://89.140.122.21:5000/udp/234.5.2.25:20000
 
 #EXTINF:-1 tvg-logo="https://www.lasexta.com/public/img/favicon-set/apple-touch-icon.png",La Sexta
-http://185.56.180.254:54543/udp/234.5.2.26:20000
+http://89.140.122.21:5000/udp/234.5.2.26:20000
 
 #EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/inline/images/destacado13-1200x750.jpg" tvg-id="TRECE",Udpxy - Trece
-http://185.56.180.254:54543/udp/234.5.2.39:20000
+http://89.140.122.21:5000/udp/234.5.2.39:20000
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/TDEP.png" tvg-id="TELEDEPORTE",TDP - Teledeporte
-http://185.56.180.254:54543/udp/234.5.2.32:20000
+http://89.140.122.21:5000/udp/234.5.2.32:20000
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/TDEP.png" tvg-id="TELEDEPORTE",TDP - Teledeporte Web
 https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main_dvr_720.m3u8
@@ -46,7 +46,7 @@ http://185.189.225.150:85/Eurosport2/index.m3u8
 http://90.68.26.55:8001/1:0:1:76A5:41E:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/GOL_PLAY.svg/2560px-GOL_PLAY.svg.png" tvg-id="GOL PLAY",Udpxy - Gol Play
-http://185.56.180.254:54543/udp/239.1.2.32:1234
+http://89.140.122.21:5000/udp/239.1.2.32:1234
 
 #EXTINF:-1,[COLOR green][I]- MOVISTAR -[/COLOR] [/I] 
 http://
@@ -211,7 +211,7 @@ http://
 http://185.189.225.150:85/syfy/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Syfy_HD_Logo_2017.png",Syfy - Udpxy
-http://185.56.180.254:54543/udp/239.1.1.16:1234
+http://89.140.122.21:5000/udp/239.1.1.16:1234
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png",Star Channel - MV+
 http://90.68.26.55:8001/1:0:1:746F:3F0:1:C00000:0:0:0:
@@ -220,22 +220,22 @@ http://90.68.26.55:8001/1:0:1:746F:3F0:1:C00000:0:0:0:
 http://185.189.225.150:85/Hollywood/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvguia.es/sites/default/files/logo/canal-hollywood.png",C.Hollywood - Udpxy
-http://185.56.180.254:54543/udp/224.168.11.167:2167
+http://89.140.122.21:5000/udp/224.168.11.167:2167
 
 #EXTINF:-1 tvg-logo="https://www.tvguia.es/sites/default/files/logo/axn_3.png",AXN
-http://185.56.180.254:54543/udp/239.1.2.73:1234
+http://89.140.122.21:5000/udp/239.1.2.73:1234
 
 #EXTINF:-1 tvg-logo="https://www.tvguia.es/sites/default/files/logo/amc.png",amc
 http://185.189.225.150:85/AMC/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/SundanceTVlogo.png/320px-SundanceTVlogo.png" tvg-id="Sundance TV",Sundance TV
-http://185.56.180.254:54543/udp/224.168.11.17:2017
+http://89.140.122.21:5000/udp/224.168.11.17:2017
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/XTRM_Espa%C3%B1a.png/320px-XTRM_Espa%C3%B1a.png" tvg-id="XTRM",Xtrm
-http://185.56.180.254:54543/udp/224.168.11.249:2249
+http://89.140.122.21:5000/udp/224.168.11.249:2249
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/800px-Warner2018LA.png" tvg-id="Warner TV HD",Warner - Udpxy
-http://185.56.180.254:54543/udp/224.168.11.56:20000
+http://89.140.122.21:5000/udp/224.168.11.56:20000
 
 #EXTINF:-1 tvg-logo="https://www.tvguia.es/sites/default/files/logo/tcm.png",TCM
 http://185.189.225.150:85/TCM/index.m3u8
@@ -244,7 +244,7 @@ http://185.189.225.150:85/TCM/index.m3u8
 http://90.68.26.55:8001/1:0:1:76C7:40E:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-logo="https://www.tvguia.es/sites/default/files/logo/paramount-network.png" tvg-id="Paramount Network",Paramount
-http://185.56.180.254:54543/udp/239.1.2.30:1234
+http://89.140.122.21:5000/udp/239.1.2.30:1234
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Comedy%20Central.png",Comedy Central
 http://185.189.225.150:85/comedycentral/index.m3u8
@@ -262,52 +262,52 @@ http://185.189.225.150:85/Dark/index.m3u8
 http://185.189.225.150:85/calle13/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Calle_13_Universal.png/501px-Calle_13_Universal.png",Calle 13 - Udpxy
-http://185.56.180.254:54543/udp/239.1.1.13:1234
+http://89.140.122.21:5000/udp/239.1.1.13:1234
 
 #EXTINF:-1 tvg-logo="https://images.amcselekt.es/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/4eaf21f98470777419af496c28ddc790_LOGO%20SOMOS%20PARA%20CANAL%20CMS.png",Somos
 http://185.189.225.150:85/somos/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.amcselekt.es/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/4eaf21f98470777419af496c28ddc790_LOGO%20SOMOS%20PARA%20CANAL%20CMS.png" tvg-id="Somos",Somos - Udpxy
-http://185.56.180.254:54543/udp/239.1.1.85:1234
+http://89.140.122.21:5000/udp/239.1.1.85:1234
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/1200px-Atrescine_logo.svg.png" tvg-id="Atrescine",A3Cine
 http://187.190.55.136:5501/udp/225.1.1.20:5020
 
 #EXTINF:-1 tvg-logo="https://contenidostv.b-cdn.net/images/bomCine512.png",BOM Cine
-http://185.56.180.254:54543/udp/239.1.2.65:1234
+http://89.140.122.21:5000/udp/239.1.2.65:1234
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Squirrel_TV_logo.svg/512px-Squirrel_TV_logo.svg.png" tvg-id="Squirrel TV",Squirrel
-http://185.56.180.254:54543/udp/239.1.2.29:1234
+http://89.140.122.21:5000/udp/239.1.2.29:1234
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/BEMAD.png",Be Mad
-http://185.56.180.254:54543/udp/239.1.2.10:1234
+http://89.140.122.21:5000/udp/239.1.2.10:1234
 
 #EXTINF:-1tvg-logo="https://i.imgur.com/bZWoDTg.png",Sony Cine
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nova.svg/1200px-Nova.svg.png",Nova
-http://185.56.180.254:54543/udp/239.1.1.148:1234
+http://89.140.122.21:5000/udp/239.1.1.148:1234
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DIVINI.png",Divinity
-http://185.56.180.254:54543/udp/234.5.2.34:20000
+http://89.140.122.21:5000/udp/234.5.2.34:20000
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png",Star TVE
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main_dvr.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Energy_c%C3%ADrculo.svg/480px-Energy_c%C3%ADrculo.svg.png",Energy
-http://185.56.180.254:54543/udp/234.5.2.167:20000
+http://89.140.122.21:5000/udp/234.5.2.167:20000
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/1280px-Neox.svg.png" tvg-id="Neox",Udpxy - Neox
-http://185.56.180.254:54543/udp/239.1.2.71:1234
+http://89.140.122.21:5000/udp/239.1.2.71:1234
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/FDFIC.png" tvg-id="Factoría de Ficción",FDF
-http://185.56.180.254:54543/udp/234.5.2.35:20000
+http://89.140.122.21:5000/udp/234.5.2.35:20000
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BEMAD.png",Be Mad
-http://185.56.180.254:54543/udp/239.1.2.10:1234
+http://89.140.122.21:5000/udp/239.1.2.10:1234
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/800px-Atreseries_2020_logo.svg.png" tvg-id="Atreseries",A3Series
-http://185.56.180.254:54543/udp/239.1.2.9:1234
+http://89.140.122.21:5000/udp/239.1.2.9:1234
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/800px-Atreseries_2020_logo.svg.png",A3Series Internacional
 http://200.115.120.1:8000/play/ca0101/index.m3u8
@@ -319,7 +319,7 @@ https://daiconnect.com/live/hls/tvup/tvfy-feelgood/.m3u8
 https://daiconnect.com/live/hls/tvup/futcineverdi/b8ee129e0585ae0c1eb5b4187f8e4fa7/index.m3u8?requestuid=48992f99-e599-4027-9f38-7ffe53596d4c
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/CGTN_Espanol.png/200px-CGTN_Espanol.png" tvg-id="CGTN Español",CGTN Español
-http://185.56.180.254:54543/udp/234.5.2.103:20000
+http://89.140.122.21:5000/udp/234.5.2.103:20000
 
 #EXTINF:-1 tvg-logo="https://images.amcselekt.es/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/2be0ee246d3833819d6686e1b76d422e_LOGO_Enfamila-color.png" tvg-id="Enfamilia",En Familia
 http://185.189.225.150:85/panda/index.m3u8
@@ -355,13 +355,13 @@ http://187.190.55.136:5501/udp/225.1.1.1:5001
 http://185.189.225.150:85/mega/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/DKISS_2019_logo.svg/1200px-DKISS_2019_logo.svg.png" tvg-id="DKISS",Udpxy - Dkiss
-http://185.56.180.254:54543/udp/234.5.2.31:20000
+http://89.140.122.21:5000/udp/234.5.2.31:20000
 
 #EXTINF:-1 tvg-logo="https://contenidostv.b-cdn.net/images/logos512/ten.png",Ten
-http://185.56.180.254:54543/udp/239.1.2.4:1234
+http://89.140.122.21:5000/udp/239.1.2.4:1234
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DMax_Espa%C3%B1a.svg/1280px-DMax_Espa%C3%B1a.svg.png" tvg-id="DMAX",Udpxy - DMax
-http://185.56.180.254:54543/udp/239.1.2.31:1234
+http://89.140.122.21:5000/udp/239.1.2.31:1234
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-0.png",Discovery
 http://185.189.225.150:85/Discovery/index.m3u8
@@ -376,10 +376,10 @@ http://185.189.225.150:85/natgeowild/index.m3u8
 http://185.189.225.150:85/odisea/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/HIST.png" tvg-id="Historia",Historia - movistar
-http://185.56.180.254:54543/udp/224.168.11.251:2251
+http://89.140.122.21:5000/udp/224.168.11.251:2251
 
 #EXTINF:-1 tvg-logo="https://images.amcselekt.es/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/4156152379c245d81bb9aa287ee582f3_AMC-Break--1200x630.jpg" tvg-id="AMC Break",AMC break
-http://185.56.180.254:54543/udp/224.168.11.20:2020
+http://89.140.122.21:5000/udp/224.168.11.20:2020
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/NickMusic_Logo.png",Nick Music
 http://187.190.55.136:5501/udp/225.1.1.11:5011
@@ -388,10 +388,10 @@ http://187.190.55.136:5501/udp/225.1.1.11:5011
 http://187.190.55.136:5501/udp/225.1.1.46:5046
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Telemadrid.svg/1200px-Telemadrid.svg.png" tvg-id="TELEMADRID",Telemadrid - Udpxy
-http://185.56.180.254:54543/udp/234.5.2.111:20000
+http://89.140.122.21:5000/udp/234.5.2.111:20000
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/OTRA.png" tvg-id="La Otra",La Otra - Udpxy
-http://185.56.180.254:54543/udp/234.5.2.112:20000
+http://89.140.122.21:5000/udp/234.5.2.112:20000
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/8madrid%20TV.png" tvg-id="8madrid TV",8 Madrid
 http://185.189.225.150:85/8madrid/index.m3u8
@@ -400,16 +400,16 @@ http://185.189.225.150:85/8madrid/index.m3u8
 https://limited35.todostreaming.es/live/mitjans-livestream2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.aragontelevision.es/_archivos/imagenes/imagen-grafica_55197_grande.jpg" tvg-id="Aragón TV",Aragon Tv
-http://185.56.180.254:54543/udp/234.5.2.125:20000
+http://89.140.122.21:5000/udp/234.5.2.125:20000
 
 #EXTINF:-1 tvg-logo="https://cabezaymuslo.com/wp-content/uploads/logo-cortinilla-02.jpg" tvg-id="La Ocho Mediterráneo",8 Mediterraneo
-http://185.56.180.254:54543/udp/234.5.2.145:20000
+http://89.140.122.21:5000/udp/234.5.2.145:20000
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/EXTRE.png" tvg-id="Canal Extremadura" tvg-id="Canal Extremadura",Extremadura Tv
-http://185.56.180.254:54543/udp/234.5.2.118:20000
+http://89.140.122.21:5000/udp/234.5.2.118:20000
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/CMMedia.svg/1200px-CMMedia.svg.png" tvg-id="CMM TV",CMM
-http://185.56.180.254:54543/udp/234.5.2.106:20000
+http://89.140.122.21:5000/udp/234.5.2.106:20000
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TPA7%20Asturias.png" tvg-id="TPA7 Asturias",7 Asturias
 https://cdn-rtpa.watchity.net/wct-3545e416-1a16-44b5-b0db-481136ecacc9/token/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NDM2NzQ0MDEsImNvdW50cnlfYWxsb3ciOltdLCJyZWdpb25fYWxsb3ciOltdLCJob3N0X2FsbG93IjpbXSwidXJsX2FsbG93IjpbIi9jb250aW51b3VzLyJdfQ.acA2FZw2y8sQ5gEtfirb15Plbt_M1kbIyjc76RyMNZM/continuous/7be5c015-1da2-4927-a49b-8d232faa69be/index.m3u8
@@ -418,7 +418,7 @@ https://cdn-rtpa.watchity.net/wct-3545e416-1a16-44b5-b0db-481136ecacc9/token/eyJ
 https://rtv-murcia-live.globalmest.com/principal/principal.smil/.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Logo_de_Canal_Sur_1.png" tvg-id="Canal Sur HD",Canal Sur 1
-http://185.56.180.254:54543/udp/234.5.2.108:20000
+http://89.140.122.21:5000/udp/234.5.2.108:20000
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/ETB2_2022_logo.svg/320px-ETB2_2022_logo.svg.png" tvg-id="ETB2",ETB II
 https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
