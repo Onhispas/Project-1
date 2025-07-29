@@ -45,8 +45,8 @@ http://185.189.225.150:85/Eurosport2/index.m3u8
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/327/493/png-clipart-eurosport-1-television-channel-logo-eurosport-2-others-miscellaneous-television.png",Eurosport 2 - Señal 2
 http://207.188.189.16:8001/1:0:1:76A5:41E:1:C00000:0:0:0:
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/GOL_PLAY.svg/2560px-GOL_PLAY.svg.png" tvg-id="GOL PLAY",Udpxy - Gol Play
-http://89.140.122.21:5000/udp/239.1.2.32:1234
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Veo7.png" tvg-id="Veo7",Udpxy - Veo 7
+http://89.140.122.21:5000/udp/234.5.2.13:20000
 
 #EXTINF:-1,[COLOR green][I]- MOVISTAR -[/COLOR] [/I] 
 http://
@@ -280,7 +280,7 @@ http://89.140.122.21:5000/udp/239.1.2.65:1234
 http://89.140.122.21:5000/udp/239.1.2.29:1234
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/BEMAD.png",Be Mad
-http://89.140.122.21:5000/udp/239.1.2.10:1234
+http://89.140.122.21:5000/udp/234.5.2.11:20000
 
 #EXTINF:-1tvg-logo="https://i.imgur.com/bZWoDTg.png",Sony Cine
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
@@ -321,7 +321,7 @@ https://daiconnect.com/live/hls/tvup/futcineverdi/b8ee129e0585ae0c1eb5b4187f8e4f
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/CGTN_Espanol.png/200px-CGTN_Espanol.png" tvg-id="CGTN Español",CGTN Español
 http://89.140.122.21:5000/udp/234.5.2.103:20000
 
-#EXTINF:-1 tvg-logo="https://images.amcselekt.es/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/2be0ee246d3833819d6686e1b76d422e_LOGO_Enfamila-color.png" tvg-id="Enfamilia",En Familia
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/VinTV.png" tvg-id="VinTV",Vin Tv
 http://185.189.225.150:85/panda/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/BOING.png",Boing
@@ -358,7 +358,7 @@ http://185.189.225.150:85/mega/index.m3u8
 http://89.140.122.21:5000/udp/234.5.2.31:20000
 
 #EXTINF:-1 tvg-logo="https://contenidostv.b-cdn.net/images/logos512/ten.png",Ten
-http://89.140.122.21:5000/udp/239.1.2.4:1234
+http://89.140.122.21:5000/udp/234.5.2.33:20000
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DMax_Espa%C3%B1a.svg/1280px-DMax_Espa%C3%B1a.svg.png" tvg-id="DMAX",Udpxy - DMax
 http://89.140.122.21:5000/udp/239.1.2.31:1234
