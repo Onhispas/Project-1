@@ -432,9 +432,6 @@ https://ztnr.rtve.es/ztnr/6909843.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; 
 #EXTINF:-1 tvg-logo="https://css2.rtve.es/css/rtve.directos/logos_cadenas/fast-rtveplaysomoscine_nac2.png" tvg-id="Somos Cine",Rtve Somos Cine
 https://ztnr.rtve.es/ztnr/6909845.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Aqu%C3%AD_no_hay_quien_viva.jpg",Aquí no hay quien viva
-https://fast-channels.atresmedia.com/1cf80f2999eea57224a48309694161de7dc08c20/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Atresplayer_-_Logo_2018.svg/320px-Atresplayer_-_Logo_2018.svg.png",A3 Cine y Series
 https://atresmedia-ceries-1-us.plex.wurl.tv/3000.m3u8
 
