@@ -7,7 +7,7 @@ https://rtvelivestream.rtve.es/rtvesec/int/tvei_eu_main_dvr.m3u8
 https://ztnr.rtve.es/ztnr/1688877.m3u8|User-Agent=VLC
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%202.png",La 2
-https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr_720.m3u8|User-Agent=VLC
+https://ztnr.rtve.es/ztnr/1688885.m3u8|User-Agent=VLC
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Antena_3_new.svg/1200px-Antena_3_new.svg.png",Antena 3
 http://89.140.122.21:5000/udp/234.5.2.23:20000
@@ -28,10 +28,10 @@ http://89.140.122.21:5000/udp/234.5.2.39:20000
 http://89.140.122.21:5000/udp/234.5.2.32:20000
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/TDEP.png" tvg-id="TELEDEPORTE",TDP - Teledeporte Web
-https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main_dvr_720.m3u8
+https://ztnr.rtve.es/ztnr/1712295.m3u8|User-Agent=VLC
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/281px-Logo_TVE-24h.svg.png" tvg-id="24 Horas",24 H
-https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
+https://ztnr.rtve.es/ztnr/1694255.m3u8|User-Agent=VLC
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/olQJgm7.png",Eurosport 1
 http://185.189.225.150:85/Eurosport1/index.m3u8
@@ -331,7 +331,7 @@ http://185.189.225.150:85/boing/index.m3u8
 http://207.188.189.16:8001/1:0:1:7888:414:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png" tvg-id="Clan",Web Rtve - Clan
-https://rtvelivestream.akamaized.net/rtvesec/clan/clan_main_dvr_720.m3u8
+https://ztnr.rtve.es/ztnr/5466990.m3u8|User-Agent=VLC
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/250px-Nickelodeon_2023_logo_%28outline%29.svg.png",Nickelodeon
 http://185.189.225.150:85/nickelodeon/index.m3u8
@@ -411,9 +411,6 @@ http://89.140.122.21:5000/udp/234.5.2.118:20000
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/CMMedia.svg/1200px-CMMedia.svg.png" tvg-id="CMM TV",CMM
 http://89.140.122.21:5000/udp/234.5.2.106:20000
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TPA7%20Asturias.png" tvg-id="TPA7 Asturias",7 Asturias
-https://cdn-rtpa.watchity.net/wct-3545e416-1a16-44b5-b0db-481136ecacc9/token/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NDM2NzQ0MDEsImNvdW50cnlfYWxsb3ciOltdLCJyZWdpb25fYWxsb3ciOltdLCJob3N0X2FsbG93IjpbXSwidXJsX2FsbG93IjpbIi9jb250aW51b3VzLyJdfQ.acA2FZw2y8sQ5gEtfirb15Plbt_M1kbIyjc76RyMNZM/continuous/7be5c015-1da2-4927-a49b-8d232faa69be/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%207%20Murcia.png" tvg-id="La 7 Murcia",7 Murcia
 https://rtv-murcia-live.globalmest.com/principal/principal.smil/.m3u8
 
@@ -433,10 +430,10 @@ https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/.m3u8
 http://
 
 #EXTINF:-1 tvg-logo="https://playmax.xyz/img/c/400/27/1505487057/13223.jpg" tvg-id="Cuéntame",Rtve Cuentame
-https://rtvelivestream.rtve.es/eventual/gofast/playm7_main_720.m3u8
+https://ztnr.rtve.es/ztnr/6909843.m3u8|User-Agent=VLC
 
 #EXTINF:-1 tvg-logo="https://css2.rtve.es/css/rtve.directos/logos_cadenas/fast-rtveplaysomoscine_nac2.png" tvg-id="Somos Cine",Rtve Somos Cine
-https://rtvelivestream.rtve.es/eventual/gofast/playm6_main_720.m3u8
+https://ztnr.rtve.es/ztnr/6909845.m3u8|User-Agent=VLC
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Atresplayer_-_Logo_2018.svg/320px-Atresplayer_-_Logo_2018.svg.png",A3 Cine y Series
 https://atresmedia-ceries-1-us.plex.wurl.tv/3000.m3u8
