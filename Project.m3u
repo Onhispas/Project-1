@@ -37,10 +37,10 @@ https://ztnr.rtve.es/ztnr/1712295.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; 
 https://ztnr.rtve.es/ztnr/1694255.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/olQJgm7.png",Eurosport 1 
-http://37.133.97.66:8001/1:0:19:7535:426:1:C00000:0:0:0:
+http://90.173.103.210:8001/1:0:19:7535:426:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/327/493/png-clipart-eurosport-1-television-channel-logo-eurosport-2-others-miscellaneous-television.png",Eurosport 2 
-http://37.133.97.66:8001/1:0:1:76A5:41E:1:C00000:0:0:0:
+http://90.173.103.210:8001/1:0:1:76A5:41E:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Veo7.png" tvg-id="Veo7",Udpxy - Veo 7
 http://79.112.31.52:8069/udp/239.10.20.54:1234
@@ -49,115 +49,115 @@ http://79.112.31.52:8069/udp/239.10.20.54:1234
 http://
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MPLUS.png" tvg-id="Movistar Plus+ HD",Movistar +
-http://37.133.97.66:8001/1:0:19:749A:41C:1:C00000:0:0:0:
+http://90.173.103.210:8001/1:0:19:749A:41C:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Estrenos.png" tvg-id="M+ Estrenos HD",Movistar Estrenos
-http://37.133.97.66:8001/1:0:19:7539:426:1:C00000:0:0:0:
+http://90.173.103.210:8001/1:0:19:7539:426:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Hits.png" tvg-id="M+ Hits HD",Movistar Hits
-http://37.133.97.66:8001/1:0:19:78b6:3ec:1:c00000:0:0:0:
+http://90.173.103.210:8001/1:0:19:78b6:3ec:1:c00000:0:0:0:
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPACCI.png" tvg-id="M+ Acción HD",Movistar Accion
-http://37.133.97.66:8001/1:0:19:7509:420:1:C00000:0:0:0:
+http://90.173.103.210:8001/1:0:19:7509:420:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPCOME.png" tvg-id="M+ Comedia HD",Movistar Comedia
-http://37.133.97.66:8001/1:0:19:7537:426:1:C00000:0:0:0:
+http://90.173.103.210:8001/1:0:19:7537:426:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPCOLE.png" tvg-id="M+ Drama HD",Movistar Drama
-http://37.133.97.66:8001/1:0:19:750B:420:1:C00000:0:0:0:
+http://90.173.103.210:8001/1:0:19:750B:420:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MCLAS.png" tvg-id="M+ Clásicos HD",Movistar Clasicos
-http://37.133.97.66:8001/1:0:19:78BF:3EC:1:C00000:0:0:0:
+http://90.173.103.210:8001/1:0:19:78BF:3EC:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DCESP.png" tvg-id="M+ Cine Español",Movistar Cine ñ
-http://37.133.97.66:8001/1:0:1:7736:416:1:C00000:0:0:0:
+http://90.173.103.210:8001/1:0:1:7736:416:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MNAVID.png" tvg-id="M+ Los Goya",Movistar Goya
-http://37.133.97.66:8001/1:0:1:7885:414:1:C00000:0:0:0:
+http://90.173.103.210:8001/1:0:1:7885:414:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MINDI.png" tvg-id="M+ Indie" tvg-id="M+ Indie HD",Movistar Indie
-http://37.133.97.66:8001/1:0:19:7533:426:1:C00000:0:0:0:
+http://90.173.103.210:8001/1:0:19:7533:426:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MV2.png" tvg-id="M. SERIESMANIA" tvg-id="M+ Series HD",Movistar Series
-http://37.133.97.66:8001/1:0:19:78B6:3EC:1:C00000:0:0:0:
+http://90.173.103.210:8001/1:0:19:78B6:3EC:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MORIG.png" tvg-id="M+ Originales HD",Movistar Originales
-http://37.133.97.66:8001/1:0:19:750C:420:1:C00000:0:0:0:
+http://90.173.103.210:8001/1:0:19:750C:420:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MDOC.png" tvg-id="M+ Documentales HD",Movistar Documentales
-http://37.133.97.66:8001/1:0:19:78BE:3EC:1:C00000:0:0:0:
+http://90.173.103.210:8001/1:0:19:78BE:3EC:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/FDFIC.png" tvg-id="Factoría de Ficción",FDF
-http://37.133.97.66:8001/1:0:1:77BC:40A:1:C00000:0:0:0:
+http://90.173.103.210:8001/1:0:1:77BC:40A:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/COSMO.png",Cosmo
-http://37.133.97.66:8001/1:0:1:7730:416:1:C00000:0:0:0:
+http://90.173.103.210:8001/1:0:1:7730:416:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-logo="https://cms.bbcstudios.com.au//sites/default/files/2024-08/BBC_DRAMA_Stacked_RGB_Full_Colour.png" tvg-id="BBC Drama",BBC Drama
-http://37.133.97.66:8001/1:0:1:77C1:40A:1:C00000:0:0:0:
+http://90.173.103.210:8001/1:0:1:77C1:40A:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png" tvg-id="Movistar Plus+ HD",Movistar+
-http://37.133.97.66:8001/1:0:19:749a:41c:1:c00000:0:0:0:
+http://90.173.103.210:8001/1:0:19:749a:41c:1:c00000:0:0:0:
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B%202.png" tvg-id="Movistar Plus+ 2 HD",Movistar+ 2
-http://37.133.97.66:8001/1:0:1:7579:412:1:C00000:0:0:0:
+http://90.173.103.210:8001/1:0:1:7579:412:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/VAMOSD.png" tvg-id="M+ Vamos HD",Vamos
-http://37.133.97.66:8001/1:0:19:750A:420:1:C00000:0:0:0:
+http://90.173.103.210:8001/1:0:19:750A:420:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MELLAV.png" tvg-id="M+ Ellas Vamos HD",Ellas Vamos
-http://37.133.97.66:8001/1:0:19:78B5:3EC:1:C00000:0:0:0:
+http://90.173.103.210:8001/1:0:19:78B5:3EC:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGA.png" tvg-id="M+ LaLiga TV HD",Movistar La liga Tv 1
-http://37.133.97.66:8001/1:0:19:750F:420:1:C00000:0:0:0:
+http://90.173.103.210:8001/1:0:19:750F:420:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIG1.png" tvg-id="M+ LaLiga TV 2 HD",Movistar La Liga Tv 2
-http://37.133.97.66:8001/1:0:19:750D:420:1:C00000:0:0:0:
+http://90.173.103.210:8001/1:0:19:750D:420:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNLI.png" tvg-id="DAZN LaLiga HD",Dazn La Liga
-http://37.133.97.66:8001/1:0:19:7534:426:1:C00000:0:0:0:
+http://90.173.103.210:8001/1:0:19:7534:426:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNL2.png" tvg-id="DAZN LaLiga 2 HD",Dazn La Liga 2
-http://37.133.97.66:8001/1:0:19:749D:41C:1:C00000:0:0:0:
+http://90.173.103.210:8001/1:0:19:749D:41C:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS.png" tvg-id="LaLiga TV Hypermotion HD",Movistar Liga Hypermotion
-http://37.133.97.66:8001/1:0:19:749B:41C:1:C00000:0:0:0:
+http://90.173.103.210:8001/1:0:19:749B:41C:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS2.png" tvg-id="LaLiga TV Hypermotion 2",Movistar Liga Hypermotion 2
-http://37.133.97.66:8001/1:0:1:7831:428:1:c00000:0:0:0:
+http://90.173.103.210:8001/1:0:1:7831:428:1:c00000:0:0:0:
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAPIO.png" tvg-id="M+ Liga de Campeones HD",Movistar Liga de Campeones
-http://37.133.97.66:8001/1:0:19:78B4:3EC:1:C00000:0:0:0:
+http://90.173.103.210:8001/1:0:19:78B4:3EC:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP1.png" tvg-id="M+ Liga de Campeones 2 HD",Movistar Liga de Campeones 2
-http://37.133.97.66:8001/1:0:19:749E:41C:1:C00000:0:0:0:
+http://90.173.103.210:8001/1:0:19:749E:41C:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP2.png" tvg-id="M+ Liga de Campeones 3 HD",Movistar Liga de Campeones 3
-http://37.133.97.66:8001/1:0:19:749F:41C:1:C00000:0:0:0:
+http://90.173.103.210:8001/1:0:19:749F:41C:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPDEP.png" tvg-id="M+ Deportes HD",Movistar Deportes
-http://37.133.97.66:8001/1:0:19:78C0:3EC:1:C00000:0:0:0:
+http://90.173.103.210:8001/1:0:19:78C0:3EC:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ARTHUR.png" tvg-id="M+ Deportes 2 HD",Movistar Deportes 2
-http://37.133.97.66:8001/1:0:19:7532:426:1:C00000:0:0:0:
+http://90.173.103.210:8001/1:0:19:7532:426:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/USOP2.png" tvg-id="M+ Deportes 3",Movistar Deportes 3
-http://37.133.97.66:8001/1:0:1:77C2:40A:1:C00000:0:0:0:
+http://90.173.103.210:8001/1:0:1:77C2:40A:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MVF1.png" tvg-id="DAZN F1 HD",Dazn F1
-http://37.133.97.66:8001/1:0:19:7531:426:1:C00000:0:0:0:
+http://90.173.103.210:8001/1:0:19:7531:426:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M1SD.png" tvg-id="DAZN 1 HD",Dazn 1
-http://37.133.97.66:8001/1:0:1:76A4:41E:1:C00000:0:0:0:
+http://90.173.103.210:8001/1:0:1:76A4:41E:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M2SD.png" tvg-id="DAZN 2 HD",Dazn 2
-http://37.133.97.66:8001/1:0:1:772A:416:1:C00000:0:0:0:
+http://90.173.103.210:8001/1:0:1:772A:416:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/DAZN_3.svg/320px-DAZN_3.svg.png" tvg-id="",Dazn 3
-http://37.133.97.66:8001/1:0:1:77BE:40A:1:C00000:0:0:0:
+http://90.173.103.210:8001/1:0:1:77BE:40A:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/DAZN_4.png" tvg-id="",Dazn 4
-http://37.133.97.66:8001/1:0:1:77BE:40A:1:C00000:0:0:0:
+http://90.173.103.210:8001/1:0:1:77BE:40A:1:C00000:0:0:0:
 
 
 #EXTINF:-1,[COLOR red][I]- CANALES DEPORTES LATINOS -[/COLOR] [/I] 
@@ -208,7 +208,7 @@ http://
 http://185.189.225.150:85/syfy/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png",Star Channel - MV+
-http://37.133.97.66:8001/1:0:1:746F:3F0:1:C00000:0:0:0:
+http://90.173.103.210:8001/1:0:1:746F:3F0:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png",Star Channel - Udpxy
 http://89.140.122.21:5000/udp/224.168.11.50:20000
@@ -238,7 +238,7 @@ http://89.140.122.21:5000/udp/224.168.11.56:20000
 http://89.140.122.21:5000/udp/224.168.11.57:20000
 
 #EXTINF:-1 tvg-logo="https://www.tvguia.es/sites/default/files/logo/tcm.png",TCM - Señal 2
-http://37.133.97.66:8001/1:0:1:76C7:40E:1:C00000:0:0:0:
+http://90.173.103.210:8001/1:0:1:76C7:40E:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-logo="https://www.tvguia.es/sites/default/files/logo/paramount-network.png" tvg-id="Paramount Network",Paramount
 http://79.112.31.52:8069/udp/239.10.20.52:1234
@@ -247,7 +247,7 @@ http://79.112.31.52:8069/udp/239.10.20.52:1234
 http://89.140.122.21:5000/udp/224.168.11.62:20000
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Comedy_Central_2011_Logo.png",Comedy Central -  MV+
-http://37.133.97.66:8001/1:0:1:76C8:40E:1:C00000:0:0:0:
+http://90.173.103.210:8001/1:0:1:76C8:40E:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/XTRM.png" tvg-id="XTRM",Xtrm
 http://185.189.225.150:85/Xtrm/index.m3u8
@@ -319,7 +319,7 @@ http://185.189.225.150:85/panda/index.m3u8
 http://79.112.31.52:8069/udp/239.10.20.50:1234
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/BOING.png",Boing - MV+
-http://37.133.97.66:8001/1:0:1:7888:414:1:C00000:0:0:0:
+http://90.173.103.210:8001/1:0:1:7888:414:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/BOING.png",Boing
 http://185.189.225.150:85/boing/index.m3u8
@@ -331,7 +331,7 @@ https://ztnr.rtve.es/ztnr/5466990.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; 
 http://89.140.122.21:5000/udp/224.168.11.60:20000
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DWSP.png",Dreamworks
-http://37.133.97.66:8001/1:0:1:77C7:40A:1:C00000:0:0:0:
+http://90.173.103.210:8001/1:0:1:77C7:40A:1:C00000:0:0:0:
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/TeenNick_2023_Outlined_Logo.png/320px-TeenNick_2023_Outlined_Logo.png",Teen Nick - Udpxy Mexico
 http://187.190.55.136:5501/udp/225.1.11.7:11007
