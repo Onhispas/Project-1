@@ -62,9 +62,6 @@ http://45.95.78.232:8001/udp/239.106.81.2:5000
 #EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/extreme-sports-channel-logo-png-transparent.png",Extreme Sports 
 http://45.95.78.232:8001/udp/239.106.86.8:5000
 
-#EXTINF:-1,[COLOR green][I]- MOVISTAR -[/COLOR] [/I] 
-http://
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Hollywood.png" tvg-id="Canal Hollywood HD",Hollywood *
 http://45.95.78.232:8001/udp/239.106.87.2:5000
 
@@ -78,7 +75,7 @@ http://45.95.78.232:8001/udp/239.106.88.1:5000
 http://45.95.78.232:8001/udp/239.106.87.3:5000
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC.png" tvg-id="AMC HD",AMC
-http://207.188.179.188:8001/1:0:19:7539:426:1:C00000:0:0:0:
+http://45.95.78.232:8001/udp/239.106.87.4:5000
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sundance%20TV.png" tvg-id="Sundance TV",Sundance tv
 http://45.95.78.232:8001/udp/239.106.86.4:5000
@@ -136,6 +133,78 @@ https://amc-amcespanol-1-us.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1tvg-logo="https://i.imgur.com/bZWoDTg.png",Sony Cine
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/640px-Logo_Studio_Universal.svg.png",Studio Universal - Mexico
+http://187.190.55.136:5501/udp/225.1.1.22:5022
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/330px-Cinemax_LA.png",Cinemax
+http://187.190.55.136:5501/udp/225.1.1.31:5031
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Universal_Premiere_2021.png/320px-Universal_Premiere_2021.png",Universal Premier
+http://187.190.55.136:5501/udp/225.1.10.139:15139
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Universal_Cinema_2021.png",Universal Cinema
+http://187.190.55.136:5501/udp/225.1.10.140:15140
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Universal_Comedy.svg/revision/latest?cb=20220311032038",Universal Comedy
+http://187.190.55.136:5501/udp/225.1.10.141:15141
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/330px-HBO_logo.svg.png",HBO - Mexico
+http://187.190.55.136:5501/udp/225.1.1.54:5054
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/798px-HBO_Max_Logo.svg.png",HBO + - Mexico
+http://187.190.55.136:5501/udp/225.1.1.28:5028
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/HBO_2_(Metallic).png",HBO 2 - Mexico
+http://187.190.55.136:5501/udp/225.1.1.53:5053
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/330px-HBO_logo.svg.png",HBO + - Mexico
+http://187.190.55.136:5501/udp/225.1.1.28:5028
+
+#EXTINF:-1 tvg-logo="https://www.pngkit.com/png/detail/223-2235572_mira-hbo-family-online-desde-tu-dispositivo-gratis.png",HBO Family - Mexico
+http://187.190.55.136:5501/udp/225.1.1.85:5085
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/330px-HBO_Pop.svg.png",HBO Pop - Mexico
+http://187.190.55.136:5501/udp/225.1.1.127:5127
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/330px-HBO_Xtreme.svg.png",HBO Xtreme - Mexico
+http://187.190.55.136:5501/udp/225.1.1.56:5056
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TNT-oficial.png/480px-TNT-oficial.png",TNT - Mexico Dual
+http://187.190.55.136:5501/udp/225.1.1.210:5210
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png",TNT Series - Mexico Dual
+http://187.190.55.136:5501/udp/225.1.1.42:5042
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/f/fc/AMC_Series_2020.png",AMC Series - Mexico Dual
+http://187.190.55.136:5501/udp/225.1.1.55:5055
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/598px-Sony_Movies_Logo.svg.png",Sony Movies - Mexico
+http://187.190.55.136:5501/udp/225.1.1.78:5078
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Sony_Channel_Logo_2019.svg/500px-Sony_Channel_Logo_2019.svg.png",Sony Channel - Mexico
+http://187.190.55.136:5501/udp/225.1.1.222:5222
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/STAR%20Channel.png",Star Channel - Mexico
+http://187.190.55.136:5501/udp/225.1.1.140:5140
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/FX_Logo_2023.svg/640px-FX_Logo_2023.svg.png",FX - Mexico
+http://187.190.55.136:5501/udp/225.1.1.249:5249
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png",amc - Mexico
+http://187.190.55.136:5501/udp/225.1.10.10:15010
+
+#EXTINF:-1 tvg-logo="https://sindicatoalma.es/wp-content/uploads/2019/02/comedi-central.png",Comedy Central - Mexico
+http://187.190.55.136:5501/udp/225.1.10.11:15011
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/fictional-cable-channels/images/9/9f/Dhrbjhn-eb1b8a6f-8873-4fe0-bdee-eade1218a86b.png",Warner - Mexico
+http://187.190.55.136:5501/udp/225.1.10.15:15015
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-Z-mgVAf9IEjusxdLWaQybd7iL5GLYcAK6iFwuLzhj6UofuzmZknw4S7XiW_-cW1comGyodTkoxSSL3S2vf7mo-iJpqGkmVUfGf2-tjiOHGJE52CDkXhtrVrbQbhWbGIhFhFoIlKZqT4axJOS6STREydRixyp70QPjLCKyHUWBIttFq9W9FrTsgLCsUw/w640-h360-rw/popcorn%20centraltv.png",Popcorn Central
+http://187.190.55.136:5501/udp/225.1.10.113:15113
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/320px-AXN_Logo_2015.png",AXN - Mexico
+http://187.190.55.136:5501/udp/225.1.10.16:15016
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Energy_c%C3%ADrculo.svg/480px-Energy_c%C3%ADrculo.svg.png",Energy
 http://45.95.78.232:8001/udp/239.106.84.4:5000
@@ -200,9 +269,6 @@ http://45.95.78.232:8001/udp/239.106.84.1:5000
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png" tvg-id="Clan",Clan
 https://ztnr.rtve.es/ztnr/5466990.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/TeenNick_2023_Outlined_Logo.png/320px-TeenNick_2023_Outlined_Logo.png",Teen Nick - Udpxy Mexico
-http://187.190.55.136:5501/udp/225.1.11.7:11007
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/200px-2019_Disney_Channel_logo.svg.png",Disney Channel - Udpxy Mexico
 http://187.190.55.136:5501/udp/225.1.1.82:5082
 
@@ -211,9 +277,6 @@ http://187.190.55.136:5501/udp/225.1.1.41:5041
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1024px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
 http://187.190.55.136:5501/udp/225.1.1.1:5001
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/NickMusic_Logo.png",Nick Music
-http://187.190.55.136:5501/udp/225.1.1.11:5011
 
 #EXTINF:-1,[COLOR yellow][I]- CANALES LATINOS -[/COLOR] [/I] 
 http://
@@ -251,9 +314,6 @@ https://daiconnect.com/live/hls/tvup/tvfy-ecuavisa/aae2ec58078c3704fc8c1264a9a06
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png",Univision
 http://45.161.24.2:4025/udp/224.32.32.32:1088
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/300px-Comedy_Central_2018.svg.png",Comedy Central - Udpxy Colombia
-http://45.161.24.2:4025/udp/239.74.50.1:5005
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/225px-Logo_UniM%C3%A1s.svg.png",Unimas - Udpxy Mexico
 http://187.190.55.136:5501/udp/225.1.10.133:15133
 
@@ -266,104 +326,14 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",Telefe
 http://187.190.55.136:5501/udp/225.1.1.240:5240
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logotipo_de_Venevisi%C3%B3n.svg/200px-Logotipo_de_Venevisi%C3%B3n.svg.png",Venevision
-http://38.41.8.1:8000/play/a03v
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png",Oromar Tv
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png", RCN Mas
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 
-#EXTINF:-1, T Channel
-http://45.161.24.2:4025/udp/239.74.48.35:4285
-
 #EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_63f4b3d665b3be00230bd063.png",Kanal D Drama
 http://187.190.55.136:5501/udp/225.1.11.22:11022
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/640px-Logo_Studio_Universal.svg.png",Studio Universal - Mexico
-http://187.190.55.136:5501/udp/225.1.1.22:5022
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/320px-Universal_TV_logo.svg.png",Universal Tv
-http://45.161.24.2:4025/udp/239.74.49.14:5014
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Universal_Premiere_2021.png/320px-Universal_Premiere_2021.png",Universal Premier
-http://187.190.55.136:5501/udp/225.1.10.139:15139
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Universal_Cinema_2021.png",Universal Cinema
-http://187.190.55.136:5501/udp/225.1.10.140:15140
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Universal_Comedy.svg/revision/latest?cb=20220311032038",Universal Comedy
-http://187.190.55.136:5501/udp/225.1.10.141:15141
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/330px-HBO_logo.svg.png",HBO - Mexico
-http://187.190.55.136:5501/udp/225.1.1.54:5054
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/798px-HBO_Max_Logo.svg.png",HBO + - Mexico
-http://187.190.55.136:5501/udp/225.1.1.28:5028
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/HBO_2_(Metallic).png",HBO 2 - Mexico
-http://187.190.55.136:5501/udp/225.1.1.53:5053
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/330px-HBO_logo.svg.png",HBO + - Mexico
-http://187.190.55.136:5501/udp/225.1.1.28:5028
-
-#EXTINF:-1 tvg-logo="https://www.pngkit.com/png/detail/223-2235572_mira-hbo-family-online-desde-tu-dispositivo-gratis.png",HBO Family - Mexico
-http://187.190.55.136:5501/udp/225.1.1.85:5085
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/330px-HBO_Pop.svg.png",HBO Pop - Mexico
-http://187.190.55.136:5501/udp/225.1.1.127:5127
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TNT-oficial.png/480px-TNT-oficial.png",TNT - Mexico Dual
-http://187.190.55.136:5501/udp/225.1.1.210:5210
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png",TNT Series - Mexico Dual
-http://187.190.55.136:5501/udp/225.1.1.42:5042
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_TNT_Novelas.png/190px-Logo_TNT_Novelas.png",TNT Novelas - Mexico Dual
-http://187.190.55.136:5501/udp/225.1.1.47:5047
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/598px-Sony_Movies_Logo.svg.png",Sony Movies - Mexico
-http://187.190.55.136:5501/udp/225.1.1.78:5078
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Paramount_Pictures_Corporation_logo.svg/762px-Paramount_Pictures_Corporation_logo.svg.png",Paramount Network - Mexico
-http://187.190.55.136:5501/udp/225.1.1.90:5090
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/STAR%20Channel.png",Star Channel - Mexico
-http://187.190.55.136:5501/udp/225.1.1.140:5140
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/CanalGoldenlogo.png",Golden - Mexico
-http://187.190.55.136:5501/udp/225.1.1.227:5227
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Golden_premier.png",Golden Premier - Mexico
-http://187.190.55.136:5501/udp/225.1.1.232:5232
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Golden_premier.png",Golden Premier 2 - Mexico
-http://187.190.55.136:5501/udp/225.1.1.233:5233
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/f/f9/Golden_Plus_LA_2020.png/revision/latest?cb=20201219032836&path-prefix=es",Golden Plus - Mexico
-http://187.190.55.136:5501/udp/225.1.1.242:5242
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/799a49_71c1ff04114f46cfb36a1b658f46e7c4~mv2.png",Golden Edge - Mexico
-http://187.190.55.136:5501/udp/225.1.1.228:5228
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/FX_Logo_2023.svg/640px-FX_Logo_2023.svg.png",FX - Mexico
-http://187.190.55.136:5501/udp/225.1.1.249:5249
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png",amc - Mexico
-http://187.190.55.136:5501/udp/225.1.10.10:15010
-
-#EXTINF:-1 tvg-logo="https://sindicatoalma.es/wp-content/uploads/2019/02/comedi-central.png",Comedy Central - Mexico
-http://187.190.55.136:5501/udp/225.1.10.11:15011
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/fictional-cable-channels/images/9/9f/Dhrbjhn-eb1b8a6f-8873-4fe0-bdee-eade1218a86b.png",Warner - Mexico
-http://187.190.55.136:5501/udp/225.1.10.15:15015
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-Z-mgVAf9IEjusxdLWaQybd7iL5GLYcAK6iFwuLzhj6UofuzmZknw4S7XiW_-cW1comGyodTkoxSSL3S2vf7mo-iJpqGkmVUfGf2-tjiOHGJE52CDkXhtrVrbQbhWbGIhFhFoIlKZqT4axJOS6STREydRixyp70QPjLCKyHUWBIttFq9W9FrTsgLCsUw/w640-h360-rw/popcorn%20centraltv.png",Popcorn Central
-http://187.190.55.136:5501/udp/225.1.10.113:15113
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/320px-AXN_Logo_2015.png",AXN - Mexico
-http://187.190.55.136:5501/udp/225.1.10.16:15016
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/960px-ATV_logo_2020.png",ATV Peru
-https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
