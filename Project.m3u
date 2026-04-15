@@ -1,4 +1,23 @@
 ﻿#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" tvg-id="ESPN",ESPN
+http://45.161.24.2:4025/udp/224.32.32.32:1037
+
+#EXTINF:-1 tvg-logo=""https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%202.png" tvg-id="ESPN 2",ESPN 2
+http://45.161.24.2:4025/udp/224.32.32.32:1064
+
+#EXTINF:-1 tvg-logo=""https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%202.png",ESPN 2 Argentina
+http://181.94.205.55:4022/udp/225.2.2.2:20019
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%203.png",ESPN 3 Argentina
+http://181.94.205.55:4022/udp/225.2.2.2:20020
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%204.png",ESPN 4 Argentina
+http://181.94.205.55:4022/udp/225.2.2.2:20021
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/330px-ESPN_5_logo.svg.png",ESPN 5
+http://45.161.24.2:4025/udp/224.32.32.32:1059
+
 #EXTINF:-1 tvg-logo="https://css2.rtve.es/css/rtveplay.2021/i/compartir_tve_internacional.jpg",TVE Int Europa
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_dvr_720.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0
 
@@ -15,19 +34,19 @@ https://ztnr.rtve.es/ztnr/1688877.m3u8|User-Agent=VLC
 https://ztnr.rtve.es/ztnr/1688885.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Antena_3_new.svg/1200px-Antena_3_new.svg.png",Antena 3
-http://45.95.78.232:8001/udp/239.106.83.1:5000
+http://213.97.163.175:4022/udp/239.10.20.9:1234
 
 #EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_circular_500_-1_d4a5.png" tvg-id="Cuatro HD",Udpxy - Cuatro
-http://45.95.78.232:8001/udp/239.106.83.2:5000
+http://213.97.163.175:4022/udp/239.10.20.20:1234
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/T5.png",Telecinco
-http://45.95.78.232:8001/udp/239.106.83.3:5000
+http://213.97.163.175:4022/udp/239.10.20.19:1234
 
 #EXTINF:-1 tvg-logo="https://www.lasexta.com/public/img/favicon-set/apple-touch-icon.png",La Sexta
-http://45.95.78.232:8001/udp/239.106.83.4:5000
+http://213.97.163.175:4022/udp/239.10.20.11:1234
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TRECE.png" tvg-id="TRECE",Trece
-http://45.95.78.232:8001/udp/239.106.84.7:5000
+http://213.97.163.175:4022/udp/239.10.20.46:1234
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Telemadrid.png" tvg-id="Telemadrid",Telemadrid
 http://45.95.78.232:8001/udp/239.106.90.3:5000
@@ -80,9 +99,6 @@ http://45.95.78.232:8001/udp/239.106.87.4:5000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sundance%20TV.png" tvg-id="Sundance TV",Sundance tv
 http://45.95.78.232:8001/udp/239.106.86.4:5000
 
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/FDFIC.png" tvg-id="Factoría de Ficción",FDF
-http://45.95.78.232:8001/udp/239.106.83.7:5000
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Syfy_HD_Logo_2017.png",Syfy
 http://45.95.78.232:8001/udp/239.106.87.5:5000
 
@@ -108,16 +124,16 @@ http://45.95.78.232:8001/udp/239.106.87.6:5000
 http://187.190.55.136:5501/udp/225.1.1.20:5020
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/BEMAD.png",Be Mad
-http://45.95.78.232:8001/udp/239.106.85.1:5000
+http://213.97.163.175:4022/udp/239.10.20.36:1234
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Veo7.png" tvg-id="Veo7",Veo 7
-http://45.95.78.232:8001/udp/239.106.91.3:5000
+http://213.97.163.175:4022/udp/239.10.20.7:1234
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Squirrel%20TV.png" tvg-id="Squirrel TV",Squirrel
-http://45.95.78.232:8001/udp/239.106.84.2:5000
+http://213.97.163.175:4022/udp/239.10.20.1:1234
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Squirrel%202.png" tvg-id="Squirrel 2",Squirrel Dos
-http://45.95.78.232:8001/udp/239.106.84.3:5000
+http://213.97.163.175:4022/udp/239.10.20.2:1234
 
 #EXTINF:-1 tvg-logo="https://css2.rtve.es/css/rtve.directos/logos_cadenas/fast-rtveplaysomoscine_nac2.png" tvg-id="Somos Cine",Rtve Somos Cine
 https://ztnr.rtve.es/ztnr/6909845.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0
@@ -134,95 +150,23 @@ https://amc-amcespanol-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1tvg-logo="https://i.imgur.com/bZWoDTg.png",Sony Cine
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/640px-Logo_Studio_Universal.svg.png",Studio Universal - Mexico
-http://187.190.55.136:5501/udp/225.1.1.22:5022
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/330px-Cinemax_LA.png",Cinemax
-http://187.190.55.136:5501/udp/225.1.1.31:5031
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Universal_Premiere_2021.png/320px-Universal_Premiere_2021.png",Universal Premier
-http://187.190.55.136:5501/udp/225.1.10.139:15139
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Universal_Cinema_2021.png",Universal Cinema
-http://187.190.55.136:5501/udp/225.1.10.140:15140
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Universal_Comedy.svg/revision/latest?cb=20220311032038",Universal Comedy
-http://187.190.55.136:5501/udp/225.1.10.141:15141
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/330px-HBO_logo.svg.png",HBO - Mexico
-http://187.190.55.136:5501/udp/225.1.1.54:5054
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/798px-HBO_Max_Logo.svg.png",HBO + - Mexico
-http://187.190.55.136:5501/udp/225.1.1.28:5028
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/HBO_2_(Metallic).png",HBO 2 - Mexico
-http://187.190.55.136:5501/udp/225.1.1.53:5053
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/330px-HBO_logo.svg.png",HBO + - Mexico
-http://187.190.55.136:5501/udp/225.1.1.28:5028
-
-#EXTINF:-1 tvg-logo="https://www.pngkit.com/png/detail/223-2235572_mira-hbo-family-online-desde-tu-dispositivo-gratis.png",HBO Family - Mexico
-http://187.190.55.136:5501/udp/225.1.1.85:5085
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/330px-HBO_Pop.svg.png",HBO Pop - Mexico
-http://187.190.55.136:5501/udp/225.1.1.127:5127
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/330px-HBO_Xtreme.svg.png",HBO Xtreme - Mexico
-http://187.190.55.136:5501/udp/225.1.1.56:5056
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TNT-oficial.png/480px-TNT-oficial.png",TNT - Mexico Dual
-http://187.190.55.136:5501/udp/225.1.1.210:5210
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png",TNT Series - Mexico Dual
-http://187.190.55.136:5501/udp/225.1.1.42:5042
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/f/fc/AMC_Series_2020.png",AMC Series - Mexico Dual
-http://187.190.55.136:5501/udp/225.1.1.55:5055
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/598px-Sony_Movies_Logo.svg.png",Sony Movies - Mexico
-http://187.190.55.136:5501/udp/225.1.1.78:5078
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Sony_Channel_Logo_2019.svg/500px-Sony_Channel_Logo_2019.svg.png",Sony Channel - Mexico
-http://187.190.55.136:5501/udp/225.1.1.222:5222
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/STAR%20Channel.png",Star Channel - Mexico
-http://187.190.55.136:5501/udp/225.1.1.140:5140
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/FX_Logo_2023.svg/640px-FX_Logo_2023.svg.png",FX - Mexico
-http://187.190.55.136:5501/udp/225.1.1.249:5249
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png",amc - Mexico
-http://187.190.55.136:5501/udp/225.1.10.10:15010
-
-#EXTINF:-1 tvg-logo="https://sindicatoalma.es/wp-content/uploads/2019/02/comedi-central.png",Comedy Central - Mexico
-http://187.190.55.136:5501/udp/225.1.10.11:15011
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/fictional-cable-channels/images/9/9f/Dhrbjhn-eb1b8a6f-8873-4fe0-bdee-eade1218a86b.png",Warner - Mexico
-http://187.190.55.136:5501/udp/225.1.10.15:15015
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-Z-mgVAf9IEjusxdLWaQybd7iL5GLYcAK6iFwuLzhj6UofuzmZknw4S7XiW_-cW1comGyodTkoxSSL3S2vf7mo-iJpqGkmVUfGf2-tjiOHGJE52CDkXhtrVrbQbhWbGIhFhFoIlKZqT4axJOS6STREydRixyp70QPjLCKyHUWBIttFq9W9FrTsgLCsUw/w640-h360-rw/popcorn%20centraltv.png",Popcorn Central
-http://187.190.55.136:5501/udp/225.1.10.113:15113
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/320px-AXN_Logo_2015.png",AXN - Mexico
-http://187.190.55.136:5501/udp/225.1.10.16:15016
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/FDFIC.png" tvg-id="Factoría de Ficción",FDF
+http://213.97.163.175:4022/udp/239.10.20.17:1234
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Energy_c%C3%ADrculo.svg/480px-Energy_c%C3%ADrculo.svg.png",Energy
-http://45.95.78.232:8001/udp/239.106.84.4:5000
+http://213.97.163.175:4022/udp/239.10.20.49:1234
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/1280px-Neox.svg.png" tvg-id="Neox",Udpxy - Neox
-http://45.95.78.232:8001/udp/239.106.83.8:5000
-
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/FDFIC.png" tvg-id="Factoría de Ficción",FDF
-http://207.188.179.188:8001/1:0:1:77bc:40a:1:c00000:0:0:0:
+http://213.97.163.175:4022/udp/239.10.20.13:1234
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Divinity.png" tvg-id="Divinity",Divinity
-http://45.95.78.232:8001/udp/239.106.83.5:5000
+http://213.97.163.175:4022/udp/239.10.20.18:1234
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nova.png" tvg-id="Nova",Nova
-http://45.95.78.232:8001/udp/239.106.83.6:5000
+http://213.97.163.175:4022/udp/239.10.20.14:1234
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Atreseries.png" tvg-id="Atreseries",A3Series
-http://45.95.78.232:8001/udp/239.106.85.4:5000
+http://213.97.163.175:4022/udp/239.10.20.35:1234
 
 #EXTINF:-1 tvg-logo="https://contenidostv.b-cdn.net/images/cineFeelGood-512.png" tvg-id="Cine Feel Good",Cine Feel Good
 https://daiconnect.com/live/hls/tvup/tvfy-feelgood/.m3u8
@@ -243,16 +187,16 @@ http://45.95.78.232:8001/udp/239.106.86.6:5000
 http://45.95.78.232:8001/udp/239.106.89.3:5000
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DMAX.png" tvg-id="DMAX",DMAX
-http://45.95.78.232:8001/udp/239.106.84.6:5000
+http://213.97.163.175:4022/udp/239.10.20.3:1234
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Mega.png" tvg-id="Mega",Mega
-http://45.95.78.232:8001/udp/239.106.84.5:5000
+http://213.97.163.175:4022/udp/239.10.20.42:1234
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DKISS.png" tvg-id="DKISS",DKISS
-http://45.95.78.232:8001/udp/239.106.80.4:5000
+http://213.97.163.175:4022/udp/239.10.20.59:1234
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Ten.png" tvg-id="Ten",Ten
-http://45.95.78.232:8001/udp/239.106.85.2:5000
+http://213.97.163.175:4022/udp/239.10.20.38:1234
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Crime.png" tvg-id="AMC Crime",AMC Crime
 http://45.95.78.232:8001/udp/239.106.80.5:5000
@@ -264,37 +208,16 @@ http://45.95.78.232:8001/udp/239.106.80.6:5000
 http://45.95.78.232:8001/udp/239.106.89.2:5000
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/BOING.png" tvg-id"Boing",Boing
-http://45.95.78.232:8001/udp/239.106.84.1:5000
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png" tvg-id="Clan",Clan
-https://ztnr.rtve.es/ztnr/5466990.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/200px-2019_Disney_Channel_logo.svg.png",Disney Channel - Udpxy Mexico
-http://187.190.55.136:5501/udp/225.1.1.82:5082
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/2560px-Tooncast_logo.svg.png",Tooncast
-http://187.190.55.136:5501/udp/225.1.1.41:5041
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1024px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
-http://187.190.55.136:5501/udp/225.1.1.1:5001
+http://213.97.163.175:4022/udp/239.10.20.50:1234
 
 #EXTINF:-1,[COLOR yellow][I]- CANALES LATINOS -[/COLOR] [/I] 
 http://
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Antena_3_Internacional_logo_2017.svg/497px-Antena_3_Internacional_logo_2017.svg.png",Antena 3 Internacional
-http://187.190.55.136:5501/udp/225.1.1.101:5101
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g5ShxZ7.png" tvg-id="Canal de las Estrellas",Las Estrellas MX
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g5ShxZ7.png" tvg-id="Canal de las Estrellas",Las Estrellas Int.
 http://45.161.24.2:4025/udp/224.2.2.2:3316
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/Logo_Azteca_Uno_2023.png",Azteca Uno
-http://187.190.55.136:5501/udp/225.1.10.102:15102
-
-#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_6523ab28416c1045648ebdcc.png" tvg-id="Azteca Internacional",Azteca Internacional
-https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V1xZV72.png",Ciudad Magazine
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
@@ -314,17 +237,11 @@ https://daiconnect.com/live/hls/tvup/tvfy-ecuavisa/aae2ec58078c3704fc8c1264a9a06
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png",Univision
 http://45.161.24.2:4025/udp/224.32.32.32:1088
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/225px-Logo_UniM%C3%A1s.svg.png",Unimas - Udpxy Mexico
-http://187.190.55.136:5501/udp/225.1.10.133:15133
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Telemundo_logo_2012.svg/800px-Telemundo_logo_2012.svg.png",Telemundo Internacional
 http://187.190.55.136:5501/udp/225.1.1.244:5244
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png", Telemundo Puerto Rico
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",Telefe
-http://187.190.55.136:5501/udp/225.1.1.240:5240
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png",Oromar Tv
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
@@ -332,8 +249,6 @@ https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png", RCN Mas
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_63f4b3d665b3be00230bd063.png",Kanal D Drama
-http://187.190.55.136:5501/udp/225.1.11.22:11022
 
 
 
